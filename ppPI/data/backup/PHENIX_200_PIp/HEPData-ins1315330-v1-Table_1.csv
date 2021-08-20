@@ -1,0 +1,19 @@
+#: table_doi: 10.17182/hepdata.71403.v1/t1,,,,,,,
+#: name: Table 1,,,,,,,
+#: description: Invariant cross section for $\pi^+$ and $\pi^-$ hadrons, as well as the statistical and systematic uncertainties.  In addition, there is an absolute scale uncertainty of 9.6$\%$.,,,,,
+,,,,,,,
+#: data_file: Table1.yaml,,,,,,,
+#: keyword reactions: P P --> PI+ X | P P --> PI- X,,,,,,,
+#: keyword observables: E*D3SIG/DP**3 | DSIG/DPT,,,,,,,
+#: keyword phrases: Inclusive | Single Differential Cross Section | Invariant Cross Section | Transverse Momentum Dependence | Proton-Proton Scattering,,,,,,,
+#: keyword cmenergies: 200.0,,,,,,,
+#: ABS(ETARAP),,,< 0.35,,,,
+#: RE,,,P P --> PI+ X,,,,
+#: SQRT(S) [GeV],,,200,,,,
+$p_T$ [GeV/$c$],$p_T$ [GeV/$c$] LOW,$p_T$ [GeV/$c$] HIGH,$E*\frac{d^3\sigma}{dp^3}$ [$mb/GeV^2$],stat +,stat -,sys +,sys -
+5.39,5,6,1.75E-05,5E-07,-5E-07,2.4E-06,-2.4E-06
+6.39,6,7,5.01E-06,1.5E-07,-1.5E-07,3.3E-07,-3.3E-07
+7.41,7,8,1.56E-06,7E-08,-7E-08,1E-07,-1E-07
+8.44,8,9,6.19E-07,3.9E-08,-3.9E-08,4E-08,-4E-08
+9.71,9,11,2.14E-07,1.6E-08,-1.6E-08,1.4E-08,-1.4E-08
+11.7,11,13,4.83E-08,7.1E-09,-7.1E-09,3.8E-09,-3.8E-09

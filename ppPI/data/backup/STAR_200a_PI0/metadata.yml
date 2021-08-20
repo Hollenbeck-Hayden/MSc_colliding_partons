@@ -1,0 +1,18 @@
+metadata:
+  - arxiv: 1309.1800
+  - paper: Phys.Rev.D 89 (2014) 012001, 2014
+  - DOI: https://doi.org/10.17182/hepdata.103061
+  - hepdata: https://www.hepdata.net/record/ins1253360
+  - nameexp: STAR_200a_PI0
+  - ndata: 6
+  - nsys: 1
+  - systype:
+      - {label: UNCORR}
+  - namesys:
+      - {label: ADD}
+  - obs: E d3sigma/dp3
+  - unit: mb/GeV-2
+  - cme: 200 GeV
+  - rap: [0.8,2.0]
+  - info: None
+  

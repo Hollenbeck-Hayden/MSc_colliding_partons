@@ -1,0 +1,20 @@
+metadata:
+  - arxiv: 0911.2773
+  - paper: Phys.Rev.D 80 (2009) 111108
+  - DOI: https://doi.org/10.1103/PhysRevD.80.111108
+  - hepdata: https://www.hepdata.net/record/ins836952
+  - nameexp: STAR_200b_PI0
+  - ndata: 13
+  - nsys: 2
+  - systype:
+      - {label: UNCORR}
+      - {label: CORR}
+  - namesys:
+      - {label: ADD}
+      - {label: MULT}
+  - obs: E d3sigma/dp3
+  - unit: mb/GeV-2
+  - cme: 200 GeV
+  - rap: [0.0, 1.0]
+  - info: None
+  

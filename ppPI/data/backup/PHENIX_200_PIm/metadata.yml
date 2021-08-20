@@ -1,0 +1,20 @@
+metadata:
+  - arxiv: 1409.1907
+  - paper: Phys.Rev.D 91 (2015) 032001, 2015
+  - DOI: https://doi.org/10.17182/hepdata.71403
+  - hepdata: https://www.hepdata.net/record/ins1315330
+  - nameexp: PHENIX_200_PIm
+  - ndata: 6
+  - nsys: 2
+  - systype:
+      - {label: UNCORR}
+      - {labele: CORR}
+  - namesys:
+      - {label: ADD}
+      - {label: MULT}
+  - obs: E d3sigma/dp3
+  - unit: mb/GeV-2
+  - cme: 200 GeV
+  - rap: [-0.35,0.35]
+  - info: None
+  

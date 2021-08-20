@@ -1,0 +1,5011 @@
+dependent_variables:
+- header: {name: '$M^{h^{-}}$'}
+  qualifiers:
+  - {name: PLAB, units: GEV, value: '160.0'}
+  - {name: RE, value: '$\mu^{+}$ d --> $\mu''^{+}$ $h^{-}$ X'}
+  values:
+  - errors:
+    - {label: stat, symerror: 0.0173}
+    - {label: sys, symerror: 0.1113}
+    value: 2.2066
+  - errors:
+    - {label: stat, symerror: 0.0143}
+    - {label: sys, symerror: 0.0779}
+    value: 1.5523
+  - errors:
+    - {label: stat, symerror: 0.0123}
+    - {label: sys, symerror: 0.0546}
+    value: 1.0907
+  - errors:
+    - {label: stat, symerror: 0.0106}
+    - {label: sys, symerror: 0.0393}
+    value: 0.7841
+  - errors:
+    - {label: stat, symerror: 0.0096}
+    - {label: sys, symerror: 0.0308}
+    value: 0.6079
+  - errors:
+    - {label: stat, symerror: 0.0085}
+    - {label: sys, symerror: 0.0228}
+    value: 0.4402
+  - errors:
+    - {label: stat, symerror: 0.0091}
+    - {label: sys, symerror: 0.0182}
+    value: 0.3369
+  - errors:
+    - {label: stat, symerror: 0.0111}
+    - {label: sys, symerror: 0.0149}
+    value: 0.2612
+  - errors:
+    - {label: stat, symerror: 0.0157}
+    - {label: sys, symerror: 0.0136}
+    value: 0.2129
+  - errors:
+    - {label: stat, symerror: 0.0253}
+    - {label: sys, symerror: 0.0104}
+    value: 0.158
+  - errors:
+    - {label: stat, symerror: 0.0108}
+    - {label: sys, symerror: 0.1101}
+    value: 2.1878
+  - errors:
+    - {label: stat, symerror: 0.0094}
+    - {label: sys, symerror: 0.0758}
+    value: 1.511
+  - errors:
+    - {label: stat, symerror: 0.0084}
+    - {label: sys, symerror: 0.0551}
+    value: 1.1009
+  - errors:
+    - {label: stat, symerror: 0.0092}
+    - {label: sys, symerror: 0.0394}
+    value: 0.7871
+  - errors:
+    - {label: stat, symerror: 0.0121}
+    - {label: sys, symerror: 0.0293}
+    value: 0.58
+  - errors:
+    - {label: stat, symerror: 0.0257}
+    - {label: sys, symerror: 0.0315}
+    value: 0.6214
+  - errors:
+    - {label: stat, symerror: 0.0165}
+    - {label: sys, symerror: 0.0232}
+    value: 0.4552
+  - errors:
+    - {label: stat, symerror: 0.0147}
+    - {label: sys, symerror: 0.0192}
+    value: 0.3538
+  - errors:
+    - {label: stat, symerror: 0.0123}
+    - {label: sys, symerror: 0.016}
+    value: 0.2499
+  - errors:
+    - {label: stat, symerror: 0.0113}
+    - {label: sys, symerror: 0.0126}
+    value: 0.2001
+  - errors:
+    - {label: stat, symerror: 0.0102}
+    - {label: sys, symerror: 0.0111}
+    value: 0.1553
+  - errors:
+    - {label: stat, symerror: 0.0095}
+    - {label: sys, symerror: 0.0103}
+    value: 0.1285
+  - errors:
+    - {label: stat, symerror: 0.0055}
+    - {label: sys, symerror: 0.0092}
+    value: 0.082
+  - errors:
+    - {label: stat, symerror: 0.0117}
+    - {label: sys, symerror: 0.0563}
+    value: 1.1242
+  - errors:
+    - {label: stat, symerror: 0.0077}
+    - {label: sys, symerror: 0.0397}
+    value: 0.7935
+  - errors:
+    - {label: stat, symerror: 0.0064}
+    - {label: sys, symerror: 0.0305}
+    value: 0.6022
+  - errors:
+    - {label: stat, symerror: 0.0054}
+    - {label: sys, symerror: 0.0223}
+    value: 0.4329
+  - errors:
+    - {label: stat, symerror: 0.0048}
+    - {label: sys, symerror: 0.0178}
+    value: 0.3332
+  - errors:
+    - {label: stat, symerror: 0.0042}
+    - {label: sys, symerror: 0.0149}
+    value: 0.2572
+  - errors:
+    - {label: stat, symerror: 0.0039}
+    - {label: sys, symerror: 0.0124}
+    value: 0.2042
+  - errors:
+    - {label: stat, symerror: 0.0035}
+    - {label: sys, symerror: 0.0099}
+    value: 0.1631
+  - errors:
+    - {label: stat, symerror: 0.0032}
+    - {label: sys, symerror: 0.0095}
+    value: 0.1297
+  - errors:
+    - {label: stat, symerror: 0.0019}
+    - {label: sys, symerror: 0.0086}
+    value: 0.0857
+  - errors:
+    - {label: stat, symerror: 0.0111}
+    - {label: sys, symerror: 0.1112}
+    value: 2.2164
+  - errors:
+    - {label: stat, symerror: 0.0072}
+    - {label: sys, symerror: 0.0774}
+    value: 1.5447
+  - errors:
+    - {label: stat, symerror: 0.0061}
+    - {label: sys, symerror: 0.0553}
+    value: 1.1044
+  - errors:
+    - {label: stat, symerror: 0.0053}
+    - {label: sys, symerror: 0.0403}
+    value: 0.8047
+  - errors:
+    - {label: stat, symerror: 0.0045}
+    - {label: sys, symerror: 0.0287}
+    value: 0.5703
+  - errors:
+    - {label: stat, symerror: 0.004}
+    - {label: sys, symerror: 0.0219}
+    value: 0.4324
+  - errors:
+    - {label: stat, symerror: 0.0037}
+    - {label: sys, symerror: 0.0166}
+    value: 0.3183
+  - errors:
+    - {label: stat, symerror: 0.0037}
+    - {label: sys, symerror: 0.0137}
+    value: 0.2508
+  - errors:
+    - {label: stat, symerror: 0.0038}
+    - {label: sys, symerror: 0.011}
+    value: 0.1922
+  - errors:
+    - {label: stat, symerror: 0.0041}
+    - {label: sys, symerror: 0.0093}
+    value: 0.1555
+  - errors:
+    - {label: stat, symerror: 0.0044}
+    - {label: sys, symerror: 0.008}
+    value: 0.1096
+  - errors:
+    - {label: stat, symerror: 0.0109}
+    - {label: sys, symerror: 0.0081}
+    value: 0.0927
+  - errors:
+    - {label: stat, symerror: 0.0107}
+    - {label: sys, symerror: 0.1095}
+    value: 2.1853
+  - errors:
+    - {label: stat, symerror: 0.0093}
+    - {label: sys, symerror: 0.0755}
+    value: 1.5076
+  - errors:
+    - {label: stat, symerror: 0.0081}
+    - {label: sys, symerror: 0.0537}
+    value: 1.0738
+  - errors:
+    - {label: stat, symerror: 0.0081}
+    - {label: sys, symerror: 0.0381}
+    value: 0.7613
+  - errors:
+    - {label: stat, symerror: 0.0097}
+    - {label: sys, symerror: 0.0276}
+    value: 0.5514
+  - errors:
+    - {label: stat, symerror: 0.0102}
+    - {label: sys, symerror: 0.0148}
+    value: 0.2354
+  - errors:
+    - {label: stat, symerror: 0.0077}
+    - {label: sys, symerror: 0.012}
+    value: 0.2056
+  - errors:
+    - {label: stat, symerror: 0.0063}
+    - {label: sys, symerror: 0.0104}
+    value: 0.1523
+  - errors:
+    - {label: stat, symerror: 0.0059}
+    - {label: sys, symerror: 0.0102}
+    value: 0.1278
+  - errors:
+    - {label: stat, symerror: 0.0037}
+    - {label: sys, symerror: 0.009}
+    value: 0.0908
+  - errors:
+    - {label: stat, symerror: 0.0173}
+    - {label: sys, symerror: 0.0305}
+    value: 0.6069
+  - errors:
+    - {label: stat, symerror: 0.0082}
+    - {label: sys, symerror: 0.0225}
+    value: 0.4394
+  - errors:
+    - {label: stat, symerror: 0.006}
+    - {label: sys, symerror: 0.0183}
+    value: 0.3463
+  - errors:
+    - {label: stat, symerror: 0.005}
+    - {label: sys, symerror: 0.0147}
+    value: 0.2592
+  - errors:
+    - {label: stat, symerror: 0.0046}
+    - {label: sys, symerror: 0.0124}
+    value: 0.2061
+  - errors:
+    - {label: stat, symerror: 0.004}
+    - {label: sys, symerror: 0.0098}
+    value: 0.1571
+  - errors:
+    - {label: stat, symerror: 0.0036}
+    - {label: sys, symerror: 0.0088}
+    value: 0.1246
+  - errors:
+    - {label: stat, symerror: 0.0022}
+    - {label: sys, symerror: 0.0084}
+    value: 0.0833
+  - errors:
+    - {label: stat, symerror: 0.0143}
+    - {label: sys, symerror: 0.0551}
+    value: 1.1005
+  - errors:
+    - {label: stat, symerror: 0.0091}
+    - {label: sys, symerror: 0.0414}
+    value: 0.8277
+  - errors:
+    - {label: stat, symerror: 0.0068}
+    - {label: sys, symerror: 0.0294}
+    value: 0.5865
+  - errors:
+    - {label: stat, symerror: 0.0058}
+    - {label: sys, symerror: 0.0218}
+    value: 0.4327
+  - errors:
+    - {label: stat, symerror: 0.005}
+    - {label: sys, symerror: 0.0164}
+    value: 0.3209
+  - errors:
+    - {label: stat, symerror: 0.0044}
+    - {label: sys, symerror: 0.0133}
+    value: 0.2495
+  - errors:
+    - {label: stat, symerror: 0.0038}
+    - {label: sys, symerror: 0.0102}
+    value: 0.1866
+  - errors:
+    - {label: stat, symerror: 0.0035}
+    - {label: sys, symerror: 0.0083}
+    value: 0.1489
+  - errors:
+    - {label: stat, symerror: 0.003}
+    - {label: sys, symerror: 0.007}
+    value: 0.114
+  - errors:
+    - {label: stat, symerror: 0.0019}
+    - {label: sys, symerror: 0.007}
+    value: 0.0808
+  - errors:
+    - {label: stat, symerror: 0.0161}
+    - {label: sys, symerror: 0.1114}
+    value: 2.2268
+  - errors:
+    - {label: stat, symerror: 0.0102}
+    - {label: sys, symerror: 0.0776}
+    value: 1.5518
+  - errors:
+    - {label: stat, symerror: 0.0085}
+    - {label: sys, symerror: 0.0544}
+    value: 1.0877
+  - errors:
+    - {label: stat, symerror: 0.0073}
+    - {label: sys, symerror: 0.0393}
+    value: 0.7863
+  - errors:
+    - {label: stat, symerror: 0.0063}
+    - {label: sys, symerror: 0.0287}
+    value: 0.5742
+  - errors:
+    - {label: stat, symerror: 0.0054}
+    - {label: sys, symerror: 0.0209}
+    value: 0.4174
+  - errors:
+    - {label: stat, symerror: 0.005}
+    - {label: sys, symerror: 0.0154}
+    value: 0.3064
+  - errors:
+    - {label: stat, symerror: 0.0049}
+    - {label: sys, symerror: 0.0123}
+    value: 0.2386
+  - errors:
+    - {label: stat, symerror: 0.0048}
+    - {label: sys, symerror: 0.0093}
+    value: 0.1803
+  - errors:
+    - {label: stat, symerror: 0.0049}
+    - {label: sys, symerror: 0.0074}
+    value: 0.1353
+  - errors:
+    - {label: stat, symerror: 0.0055}
+    - {label: sys, symerror: 0.0063}
+    value: 0.1055
+  - errors:
+    - {label: stat, symerror: 0.0112}
+    - {label: sys, symerror: 0.0051}
+    value: 0.0751
+  - errors:
+    - {label: stat, symerror: 0.0174}
+    - {label: sys, symerror: 0.1075}
+    value: 2.1482
+  - errors:
+    - {label: stat, symerror: 0.015}
+    - {label: sys, symerror: 0.0749}
+    value: 1.4978
+  - errors:
+    - {label: stat, symerror: 0.0129}
+    - {label: sys, symerror: 0.0524}
+    value: 1.0487
+  - errors:
+    - {label: stat, symerror: 0.0125}
+    - {label: sys, symerror: 0.0371}
+    value: 0.7421
+  - errors:
+    - {label: stat, symerror: 0.0144}
+    - {label: sys, symerror: 0.0268}
+    value: 0.5364
+  - errors:
+    - {label: stat, symerror: 0.0114}
+    - {label: sys, symerror: 0.0148}
+    value: 0.2648
+  - errors:
+    - {label: stat, symerror: 0.0067}
+    - {label: sys, symerror: 0.0112}
+    value: 0.1933
+  - errors:
+    - {label: stat, symerror: 0.0049}
+    - {label: sys, symerror: 0.0092}
+    value: 0.1507
+  - errors:
+    - {label: stat, symerror: 0.004}
+    - {label: sys, symerror: 0.0092}
+    value: 0.1221
+  - errors:
+    - {label: stat, symerror: 0.0023}
+    - {label: sys, symerror: 0.0082}
+    value: 0.083
+  - errors:
+    - {label: stat, symerror: 0.0224}
+    - {label: sys, symerror: 0.0289}
+    value: 0.5757
+  - errors:
+    - {label: stat, symerror: 0.0111}
+    - {label: sys, symerror: 0.0221}
+    value: 0.4364
+  - errors:
+    - {label: stat, symerror: 0.0074}
+    - {label: sys, symerror: 0.0167}
+    value: 0.3256
+  - errors:
+    - {label: stat, symerror: 0.0062}
+    - {label: sys, symerror: 0.013}
+    value: 0.2421
+  - errors:
+    - {label: stat, symerror: 0.0054}
+    - {label: sys, symerror: 0.0102}
+    value: 0.1868
+  - errors:
+    - {label: stat, symerror: 0.0045}
+    - {label: sys, symerror: 0.0079}
+    value: 0.1375
+  - errors:
+    - {label: stat, symerror: 0.0043}
+    - {label: sys, symerror: 0.0072}
+    value: 0.1177
+  - errors:
+    - {label: stat, symerror: 0.0025}
+    - {label: sys, symerror: 0.0066}
+    value: 0.0757
+  - errors:
+    - {label: stat, symerror: 0.017}
+    - {label: sys, symerror: 0.0547}
+    value: 1.0929
+  - errors:
+    - {label: stat, symerror: 0.0107}
+    - {label: sys, symerror: 0.0396}
+    value: 0.7911
+  - errors:
+    - {label: stat, symerror: 0.0083}
+    - {label: sys, symerror: 0.0292}
+    value: 0.5838
+  - errors:
+    - {label: stat, symerror: 0.0071}
+    - {label: sys, symerror: 0.0212}
+    value: 0.4222
+  - errors:
+    - {label: stat, symerror: 0.0059}
+    - {label: sys, symerror: 0.0153}
+    value: 0.3042
+  - errors:
+    - {label: stat, symerror: 0.0051}
+    - {label: sys, symerror: 0.0118}
+    value: 0.2316
+  - errors:
+    - {label: stat, symerror: 0.0046}
+    - {label: sys, symerror: 0.0093}
+    value: 0.1788
+  - errors:
+    - {label: stat, symerror: 0.0039}
+    - {label: sys, symerror: 0.007}
+    value: 0.1324
+  - errors:
+    - {label: stat, symerror: 0.0034}
+    - {label: sys, symerror: 0.0059}
+    value: 0.1021
+  - errors:
+    - {label: stat, symerror: 0.002}
+    - {label: sys, symerror: 0.0049}
+    value: 0.0689
+  - errors:
+    - {label: stat, symerror: 0.0209}
+    - {label: sys, symerror: 0.1126}
+    value: 2.2511
+  - errors:
+    - {label: stat, symerror: 0.0127}
+    - {label: sys, symerror: 0.0755}
+    value: 1.5094
+  - errors:
+    - {label: stat, symerror: 0.0106}
+    - {label: sys, symerror: 0.0539}
+    value: 1.0778
+  - errors:
+    - {label: stat, symerror: 0.0093}
+    - {label: sys, symerror: 0.0396}
+    value: 0.7917
+  - errors:
+    - {label: stat, symerror: 0.0077}
+    - {label: sys, symerror: 0.0275}
+    value: 0.5492
+  - errors:
+    - {label: stat, symerror: 0.0066}
+    - {label: sys, symerror: 0.02}
+    value: 0.4003
+  - errors:
+    - {label: stat, symerror: 0.0062}
+    - {label: sys, symerror: 0.0152}
+    value: 0.3037
+  - errors:
+    - {label: stat, symerror: 0.0058}
+    - {label: sys, symerror: 0.0112}
+    value: 0.2207
+  - errors:
+    - {label: stat, symerror: 0.0057}
+    - {label: sys, symerror: 0.0087}
+    value: 0.1703
+  - errors:
+    - {label: stat, symerror: 0.0057}
+    - {label: sys, symerror: 0.0064}
+    value: 0.1237
+  - errors:
+    - {label: stat, symerror: 0.0062}
+    - {label: sys, symerror: 0.0052}
+    value: 0.0966
+  - errors:
+    - {label: stat, symerror: 0.0094}
+    - {label: sys, symerror: 0.0028}
+    value: 0.0386
+  - errors:
+    - {label: stat, symerror: 0.0248}
+    - {label: sys, symerror: 0.1083}
+    value: 2.1648
+  - errors:
+    - {label: stat, symerror: 0.0214}
+    - {label: sys, symerror: 0.0758}
+    value: 1.5148
+  - errors:
+    - {label: stat, symerror: 0.0187}
+    - {label: sys, symerror: 0.0543}
+    value: 1.0857
+  - errors:
+    - {label: stat, symerror: 0.0171}
+    - {label: sys, symerror: 0.0367}
+    value: 0.7335
+  - errors:
+    - {label: stat, symerror: 0.0206}
+    - {label: sys, symerror: 0.0286}
+    value: 0.5715
+  - errors:
+    - {label: stat, symerror: 0.0101}
+    - {label: sys, symerror: 0.0127}
+    value: 0.2434
+  - errors:
+    - {label: stat, symerror: 0.0061}
+    - {label: sys, symerror: 0.0097}
+    value: 0.1808
+  - errors:
+    - {label: stat, symerror: 0.0045}
+    - {label: sys, symerror: 0.0084}
+    value: 0.1431
+  - errors:
+    - {label: stat, symerror: 0.0035}
+    - {label: sys, symerror: 0.0073}
+    value: 0.1155
+  - errors:
+    - {label: stat, symerror: 0.0018}
+    - {label: sys, symerror: 0.0067}
+    value: 0.0743
+  - errors:
+    - {label: stat, symerror: 0.0187}
+    - {label: sys, symerror: 0.028}
+    value: 0.5599
+  - errors:
+    - {label: stat, symerror: 0.0091}
+    - {label: sys, symerror: 0.0205}
+    value: 0.4082
+  - errors:
+    - {label: stat, symerror: 0.0065}
+    - {label: sys, symerror: 0.0161}
+    value: 0.3206
+  - errors:
+    - {label: stat, symerror: 0.0054}
+    - {label: sys, symerror: 0.0122}
+    value: 0.2384
+  - errors:
+    - {label: stat, symerror: 0.0047}
+    - {label: sys, symerror: 0.0094}
+    value: 0.1805
+  - errors:
+    - {label: stat, symerror: 0.0039}
+    - {label: sys, symerror: 0.0069}
+    value: 0.1311
+  - errors:
+    - {label: stat, symerror: 0.0035}
+    - {label: sys, symerror: 0.0061}
+    value: 0.1053
+  - errors:
+    - {label: stat, symerror: 0.002}
+    - {label: sys, symerror: 0.005}
+    value: 0.0711
+  - errors:
+    - {label: stat, symerror: 0.0147}
+    - {label: sys, symerror: 0.0535}
+    value: 1.0697
+  - errors:
+    - {label: stat, symerror: 0.0091}
+    - {label: sys, symerror: 0.0387}
+    value: 0.7741
+  - errors:
+    - {label: stat, symerror: 0.0069}
+    - {label: sys, symerror: 0.0277}
+    value: 0.5531
+  - errors:
+    - {label: stat, symerror: 0.0059}
+    - {label: sys, symerror: 0.0202}
+    value: 0.4047
+  - errors:
+    - {label: stat, symerror: 0.005}
+    - {label: sys, symerror: 0.0149}
+    value: 0.2978
+  - errors:
+    - {label: stat, symerror: 0.0044}
+    - {label: sys, symerror: 0.0113}
+    value: 0.2237
+  - errors:
+    - {label: stat, symerror: 0.0038}
+    - {label: sys, symerror: 0.0086}
+    value: 0.1696
+  - errors:
+    - {label: stat, symerror: 0.0033}
+    - {label: sys, symerror: 0.0066}
+    value: 0.129
+  - errors:
+    - {label: stat, symerror: 0.0028}
+    - {label: sys, symerror: 0.005}
+    value: 0.0928
+  - errors:
+    - {label: stat, symerror: 0.0016}
+    - {label: sys, symerror: 0.0042}
+    value: 0.0624
+  - errors:
+    - {label: stat, symerror: 0.0192}
+    - {label: sys, symerror: 0.1103}
+    value: 2.2055
+  - errors:
+    - {label: stat, symerror: 0.0116}
+    - {label: sys, symerror: 0.0759}
+    value: 1.5182
+  - errors:
+    - {label: stat, symerror: 0.0097}
+    - {label: sys, symerror: 0.0534}
+    value: 1.0683
+  - errors:
+    - {label: stat, symerror: 0.0081}
+    - {label: sys, symerror: 0.0375}
+    value: 0.7491
+  - errors:
+    - {label: stat, symerror: 0.0069}
+    - {label: sys, symerror: 0.0268}
+    value: 0.535
+  - errors:
+    - {label: stat, symerror: 0.0059}
+    - {label: sys, symerror: 0.0191}
+    value: 0.3827
+  - errors:
+    - {label: stat, symerror: 0.0054}
+    - {label: sys, symerror: 0.0141}
+    value: 0.2818
+  - errors:
+    - {label: stat, symerror: 0.0051}
+    - {label: sys, symerror: 0.0106}
+    value: 0.2114
+  - errors:
+    - {label: stat, symerror: 0.0051}
+    - {label: sys, symerror: 0.0082}
+    value: 0.1617
+  - errors:
+    - {label: stat, symerror: 0.0052}
+    - {label: sys, symerror: 0.0063}
+    value: 0.1235
+  - errors:
+    - {label: stat, symerror: 0.0053}
+    - {label: sys, symerror: 0.0045}
+    value: 0.0851
+  - errors:
+    - {label: stat, symerror: 0.0104}
+    - {label: sys, symerror: 0.0031}
+    value: 0.0519
+  - errors:
+    - {label: stat, symerror: 0.027}
+    - {label: sys, symerror: 0.1103}
+    value: 2.2053
+  - errors:
+    - {label: stat, symerror: 0.0224}
+    - {label: sys, symerror: 0.0723}
+    value: 1.445
+  - errors:
+    - {label: stat, symerror: 0.0193}
+    - {label: sys, symerror: 0.0515}
+    value: 1.0293
+  - errors:
+    - {label: stat, symerror: 0.0176}
+    - {label: sys, symerror: 0.0349}
+    value: 0.6979
+  - errors:
+    - {label: stat, symerror: 0.0197}
+    - {label: sys, symerror: 0.0259}
+    value: 0.5182
+  - errors:
+    - {label: stat, symerror: 0.0091}
+    - {label: sys, symerror: 0.0116}
+    value: 0.2275
+  - errors:
+    - {label: stat, symerror: 0.0054}
+    - {label: sys, symerror: 0.0085}
+    value: 0.1646
+  - errors:
+    - {label: stat, symerror: 0.0039}
+    - {label: sys, symerror: 0.0066}
+    value: 0.1238
+  - errors:
+    - {label: stat, symerror: 0.003}
+    - {label: sys, symerror: 0.0054}
+    value: 0.0953
+  - errors:
+    - {label: stat, symerror: 0.0016}
+    - {label: sys, symerror: 0.005}
+    value: 0.0686
+  - errors:
+    - {label: stat, symerror: 0.0172}
+    - {label: sys, symerror: 0.0273}
+    value: 0.5465
+  - errors:
+    - {label: stat, symerror: 0.008}
+    - {label: sys, symerror: 0.019}
+    value: 0.3805
+  - errors:
+    - {label: stat, symerror: 0.0056}
+    - {label: sys, symerror: 0.0145}
+    value: 0.2893
+  - errors:
+    - {label: stat, symerror: 0.0046}
+    - {label: sys, symerror: 0.0106}
+    value: 0.21
+  - errors:
+    - {label: stat, symerror: 0.0039}
+    - {label: sys, symerror: 0.0081}
+    value: 0.1595
+  - errors:
+    - {label: stat, symerror: 0.0034}
+    - {label: sys, symerror: 0.0061}
+    value: 0.1183
+  - errors:
+    - {label: stat, symerror: 0.0029}
+    - {label: sys, symerror: 0.0047}
+    value: 0.0888
+  - errors:
+    - {label: stat, symerror: 0.0015}
+    - {label: sys, symerror: 0.0035}
+    value: 0.0554
+  - errors:
+    - {label: stat, symerror: 0.0141}
+    - {label: sys, symerror: 0.0529}
+    value: 1.0582
+  - errors:
+    - {label: stat, symerror: 0.0083}
+    - {label: sys, symerror: 0.0363}
+    value: 0.7261
+  - errors:
+    - {label: stat, symerror: 0.0063}
+    - {label: sys, symerror: 0.0261}
+    value: 0.5226
+  - errors:
+    - {label: stat, symerror: 0.0054}
+    - {label: sys, symerror: 0.019}
+    value: 0.38
+  - errors:
+    - {label: stat, symerror: 0.0046}
+    - {label: sys, symerror: 0.0139}
+    value: 0.2777
+  - errors:
+    - {label: stat, symerror: 0.004}
+    - {label: sys, symerror: 0.0105}
+    value: 0.2097
+  - errors:
+    - {label: stat, symerror: 0.0033}
+    - {label: sys, symerror: 0.0075}
+    value: 0.1484
+  - errors:
+    - {label: stat, symerror: 0.0028}
+    - {label: sys, symerror: 0.0055}
+    value: 0.1083
+  - errors:
+    - {label: stat, symerror: 0.0024}
+    - {label: sys, symerror: 0.0042}
+    value: 0.0815
+  - errors:
+    - {label: stat, symerror: 0.0014}
+    - {label: sys, symerror: 0.0032}
+    value: 0.0546
+  - errors:
+    - {label: stat, symerror: 0.0236}
+    - {label: sys, symerror: 0.1114}
+    value: 2.2272
+  - errors:
+    - {label: stat, symerror: 0.013}
+    - {label: sys, symerror: 0.0754}
+    value: 1.5079
+  - errors:
+    - {label: stat, symerror: 0.0105}
+    - {label: sys, symerror: 0.0521}
+    value: 1.0424
+  - errors:
+    - {label: stat, symerror: 0.0089}
+    - {label: sys, symerror: 0.0366}
+    value: 0.7327
+  - errors:
+    - {label: stat, symerror: 0.0075}
+    - {label: sys, symerror: 0.0259}
+    value: 0.5184
+  - errors:
+    - {label: stat, symerror: 0.0063}
+    - {label: sys, symerror: 0.0179}
+    value: 0.3585
+  - errors:
+    - {label: stat, symerror: 0.0057}
+    - {label: sys, symerror: 0.0134}
+    value: 0.2675
+  - errors:
+    - {label: stat, symerror: 0.0053}
+    - {label: sys, symerror: 0.0099}
+    value: 0.1984
+  - errors:
+    - {label: stat, symerror: 0.0048}
+    - {label: sys, symerror: 0.0069}
+    value: 0.1379
+  - errors:
+    - {label: stat, symerror: 0.005}
+    - {label: sys, symerror: 0.0055}
+    value: 0.1091
+  - errors:
+    - {label: stat, symerror: 0.0049}
+    - {label: sys, symerror: 0.0037}
+    value: 0.0733
+  - errors:
+    - {label: stat, symerror: 0.0097}
+    - {label: sys, symerror: 0.0026}
+    value: 0.0456
+  - errors:
+    - {label: stat, symerror: 0.0368}
+    - {label: sys, symerror: 0.1074}
+    value: 2.1478
+  - errors:
+    - {label: stat, symerror: 0.0317}
+    - {label: sys, symerror: 0.0749}
+    value: 1.4972
+  - errors:
+    - {label: stat, symerror: 0.0255}
+    - {label: sys, symerror: 0.0478}
+    value: 0.955
+  - errors:
+    - {label: stat, symerror: 0.0238}
+    - {label: sys, symerror: 0.0349}
+    value: 0.6979
+  - errors:
+    - {label: stat, symerror: 0.0258}
+    - {label: sys, symerror: 0.0243}
+    value: 0.4867
+  - errors:
+    - {label: stat, symerror: 0.0117}
+    - {label: sys, symerror: 0.0097}
+    value: 0.1931
+  - errors:
+    - {label: stat, symerror: 0.0068}
+    - {label: sys, symerror: 0.0069}
+    value: 0.1364
+  - errors:
+    - {label: stat, symerror: 0.0047}
+    - {label: sys, symerror: 0.0049}
+    value: 0.0966
+  - errors:
+    - {label: stat, symerror: 0.0039}
+    - {label: sys, symerror: 0.0046}
+    value: 0.0855
+  - errors:
+    - {label: stat, symerror: 0.002}
+    - {label: sys, symerror: 0.0035}
+    value: 0.0549
+  - errors:
+    - {label: stat, symerror: 0.0214}
+    - {label: sys, symerror: 0.0241}
+    value: 0.4826
+  - errors:
+    - {label: stat, symerror: 0.0105}
+    - {label: sys, symerror: 0.0179}
+    value: 0.3587
+  - errors:
+    - {label: stat, symerror: 0.0073}
+    - {label: sys, symerror: 0.0131}
+    value: 0.2625
+  - errors:
+    - {label: stat, symerror: 0.0056}
+    - {label: sys, symerror: 0.009}
+    value: 0.179
+  - errors:
+    - {label: stat, symerror: 0.0048}
+    - {label: sys, symerror: 0.0067}
+    value: 0.1334
+  - errors:
+    - {label: stat, symerror: 0.0041}
+    - {label: sys, symerror: 0.005}
+    value: 0.0985
+  - errors:
+    - {label: stat, symerror: 0.0036}
+    - {label: sys, symerror: 0.004}
+    value: 0.077
+  - errors:
+    - {label: stat, symerror: 0.0019}
+    - {label: sys, symerror: 0.0029}
+    value: 0.0478
+  - errors:
+    - {label: stat, symerror: 0.0215}
+    - {label: sys, symerror: 0.0506}
+    value: 1.0118
+  - errors:
+    - {label: stat, symerror: 0.0126}
+    - {label: sys, symerror: 0.0362}
+    value: 0.7244
+  - errors:
+    - {label: stat, symerror: 0.0091}
+    - {label: sys, symerror: 0.0249}
+    value: 0.4989
+  - errors:
+    - {label: stat, symerror: 0.0078}
+    - {label: sys, symerror: 0.0182}
+    value: 0.3648
+  - errors:
+    - {label: stat, symerror: 0.0065}
+    - {label: sys, symerror: 0.0129}
+    value: 0.2579
+  - errors:
+    - {label: stat, symerror: 0.0053}
+    - {label: sys, symerror: 0.0088}
+    value: 0.1758
+  - errors:
+    - {label: stat, symerror: 0.0048}
+    - {label: sys, symerror: 0.0072}
+    value: 0.144
+  - errors:
+    - {label: stat, symerror: 0.004}
+    - {label: sys, symerror: 0.005}
+    value: 0.0997
+  - errors:
+    - {label: stat, symerror: 0.0034}
+    - {label: sys, symerror: 0.0037}
+    value: 0.0725
+  - errors:
+    - {label: stat, symerror: 0.0018}
+    - {label: sys, symerror: 0.0023}
+    value: 0.0421
+  - errors:
+    - {label: stat, symerror: 0.0445}
+    - {label: sys, symerror: 0.11}
+    value: 2.1994
+  - errors:
+    - {label: stat, symerror: 0.023}
+    - {label: sys, symerror: 0.0727}
+    value: 1.4549
+  - errors:
+    - {label: stat, symerror: 0.0186}
+    - {label: sys, symerror: 0.05}
+    value: 0.9998
+  - errors:
+    - {label: stat, symerror: 0.0155}
+    - {label: sys, symerror: 0.0347}
+    value: 0.6939
+  - errors:
+    - {label: stat, symerror: 0.0129}
+    - {label: sys, symerror: 0.0245}
+    value: 0.491
+  - errors:
+    - {label: stat, symerror: 0.0108}
+    - {label: sys, symerror: 0.017}
+    value: 0.3391
+  - errors:
+    - {label: stat, symerror: 0.0099}
+    - {label: sys, symerror: 0.0125}
+    value: 0.2494
+  - errors:
+    - {label: stat, symerror: 0.0092}
+    - {label: sys, symerror: 0.0095}
+    value: 0.1908
+  - errors:
+    - {label: stat, symerror: 0.0075}
+    - {label: sys, symerror: 0.0057}
+    value: 0.1129
+  - errors:
+    - {label: stat, symerror: 0.0078}
+    - {label: sys, symerror: 0.0048}
+    value: 0.0952
+  - errors:
+    - {label: stat, symerror: 0.0065}
+    - {label: sys, symerror: 0.0025}
+    value: 0.05
+  - errors:
+    - {label: stat, symerror: 0.0741}
+    - {label: sys, symerror: 0.1104}
+    value: 2.2078
+  - errors:
+    - {label: stat, symerror: 0.0607}
+    - {label: sys, symerror: 0.0719}
+    value: 1.4371
+  - errors:
+    - {label: stat, symerror: 0.051}
+    - {label: sys, symerror: 0.0492}
+    value: 0.9836
+  - errors:
+    - {label: stat, symerror: 0.0445}
+    - {label: sys, symerror: 0.034}
+    value: 0.6805
+  - errors:
+    - {label: stat, symerror: 0.0487}
+    - {label: sys, symerror: 0.0233}
+    value: 0.4653
+  - errors:
+    - {label: stat, symerror: 0.0138}
+    - {label: sys, symerror: 0.0081}
+    value: 0.1621
+  - errors:
+    - {label: stat, symerror: 0.009}
+    - {label: sys, symerror: 0.0065}
+    value: 0.1284
+  - errors:
+    - {label: stat, symerror: 0.0062}
+    - {label: sys, symerror: 0.0044}
+    value: 0.0873
+  - errors:
+    - {label: stat, symerror: 0.0052}
+    - {label: sys, symerror: 0.004}
+    value: 0.076
+  - errors:
+    - {label: stat, symerror: 0.0025}
+    - {label: sys, symerror: 0.0027}
+    value: 0.046
+  - errors:
+    - {label: stat, symerror: 0.0285}
+    - {label: sys, symerror: 0.0207}
+    value: 0.4138
+  - errors:
+    - {label: stat, symerror: 0.0149}
+    - {label: sys, symerror: 0.0172}
+    value: 0.3437
+  - errors:
+    - {label: stat, symerror: 0.0097}
+    - {label: sys, symerror: 0.012}
+    value: 0.2397
+  - errors:
+    - {label: stat, symerror: 0.0076}
+    - {label: sys, symerror: 0.0082}
+    value: 0.163
+  - errors:
+    - {label: stat, symerror: 0.0067}
+    - {label: sys, symerror: 0.0064}
+    value: 0.1266
+  - errors:
+    - {label: stat, symerror: 0.0055}
+    - {label: sys, symerror: 0.0046}
+    value: 0.0919
+  - errors:
+    - {label: stat, symerror: 0.0048}
+    - {label: sys, symerror: 0.0036}
+    value: 0.0696
+  - errors:
+    - {label: stat, symerror: 0.0025}
+    - {label: sys, symerror: 0.0023}
+    value: 0.0414
+  - errors:
+    - {label: stat, symerror: 0.0336}
+    - {label: sys, symerror: 0.0505}
+    value: 1.0107
+  - errors:
+    - {label: stat, symerror: 0.0178}
+    - {label: sys, symerror: 0.0324}
+    value: 0.6483
+  - errors:
+    - {label: stat, symerror: 0.0134}
+    - {label: sys, symerror: 0.024}
+    value: 0.4809
+  - errors:
+    - {label: stat, symerror: 0.011}
+    - {label: sys, symerror: 0.0168}
+    value: 0.3369
+  - errors:
+    - {label: stat, symerror: 0.0093}
+    - {label: sys, symerror: 0.0121}
+    value: 0.2428
+  - errors:
+    - {label: stat, symerror: 0.0074}
+    - {label: sys, symerror: 0.008}
+    value: 0.1602
+  - errors:
+    - {label: stat, symerror: 0.0063}
+    - {label: sys, symerror: 0.0058}
+    value: 0.1147
+  - errors:
+    - {label: stat, symerror: 0.0052}
+    - {label: sys, symerror: 0.0041}
+    value: 0.0825
+  - errors:
+    - {label: stat, symerror: 0.0047}
+    - {label: sys, symerror: 0.0033}
+    value: 0.0657
+  - errors:
+    - {label: stat, symerror: 0.0024}
+    - {label: sys, symerror: 0.002}
+    value: 0.0362
+  - errors:
+    - {label: stat, symerror: 0.0694}
+    - {label: sys, symerror: 0.1072}
+    value: 2.1443
+  - errors:
+    - {label: stat, symerror: 0.0373}
+    - {label: sys, symerror: 0.0737}
+    value: 1.4732
+  - errors:
+    - {label: stat, symerror: 0.0287}
+    - {label: sys, symerror: 0.0473}
+    value: 0.9459
+  - errors:
+    - {label: stat, symerror: 0.0246}
+    - {label: sys, symerror: 0.0344}
+    value: 0.6873
+  - errors:
+    - {label: stat, symerror: 0.0198}
+    - {label: sys, symerror: 0.0225}
+    value: 0.4496
+  - errors:
+    - {label: stat, symerror: 0.019}
+    - {label: sys, symerror: 0.0188}
+    value: 0.3763
+  - errors:
+    - {label: stat, symerror: 0.0152}
+    - {label: sys, symerror: 0.012}
+    value: 0.24
+  - errors:
+    - {label: stat, symerror: 0.0132}
+    - {label: sys, symerror: 0.0083}
+    value: 0.1666
+  - errors:
+    - {label: stat, symerror: 0.0115}
+    - {label: sys, symerror: 0.0053}
+    value: 0.1062
+  - errors:
+    - {label: stat, symerror: 0.0113}
+    - {label: sys, symerror: 0.0039}
+    value: 0.0785
+  - errors:
+    - {label: stat, symerror: 0.0127}
+    - {label: sys, symerror: 0.0033}
+    value: 0.0647
+  - errors:
+    - {label: stat, symerror: 0.0323}
+    - {label: sys, symerror: 0.0228}
+    value: 0.4561
+  - errors:
+    - {label: stat, symerror: 0.0157}
+    - {label: sys, symerror: 0.0166}
+    value: 0.3317
+  - errors:
+    - {label: stat, symerror: 0.0107}
+    - {label: sys, symerror: 0.0119}
+    value: 0.2375
+  - errors:
+    - {label: stat, symerror: 0.0082}
+    - {label: sys, symerror: 0.008}
+    value: 0.1597
+  - errors:
+    - {label: stat, symerror: 0.007}
+    - {label: sys, symerror: 0.0059}
+    value: 0.1174
+  - errors:
+    - {label: stat, symerror: 0.006}
+    - {label: sys, symerror: 0.0044}
+    value: 0.0881
+  - errors:
+    - {label: stat, symerror: 0.0048}
+    - {label: sys, symerror: 0.003}
+    value: 0.0581
+  - errors:
+    - {label: stat, symerror: 0.0023}
+    - {label: sys, symerror: 0.0017}
+    value: 0.0315
+  - errors:
+    - {label: stat, symerror: 0.0353}
+    - {label: sys, symerror: 0.0472}
+    value: 0.9436
+  - errors:
+    - {label: stat, symerror: 0.019}
+    - {label: sys, symerror: 0.0319}
+    value: 0.6381
+  - errors:
+    - {label: stat, symerror: 0.0138}
+    - {label: sys, symerror: 0.0221}
+    value: 0.4426
+  - errors:
+    - {label: stat, symerror: 0.0113}
+    - {label: sys, symerror: 0.0155}
+    value: 0.3091
+  - errors:
+    - {label: stat, symerror: 0.0096}
+    - {label: sys, symerror: 0.011}
+    value: 0.2203
+  - errors:
+    - {label: stat, symerror: 0.008}
+    - {label: sys, symerror: 0.0081}
+    value: 0.1622
+  - errors:
+    - {label: stat, symerror: 0.0071}
+    - {label: sys, symerror: 0.0062}
+    value: 0.1243
+  - errors:
+    - {label: stat, symerror: 0.0052}
+    - {label: sys, symerror: 0.0037}
+    value: 0.0746
+  - errors:
+    - {label: stat, symerror: 0.0045}
+    - {label: sys, symerror: 0.0028}
+    value: 0.0554
+  - errors:
+    - {label: stat, symerror: 0.0022}
+    - {label: sys, symerror: 0.0015}
+    value: 0.029
+  - errors:
+    - {label: stat, symerror: 0.0753}
+    - {label: sys, symerror: 0.1073}
+    value: 2.1458
+  - errors:
+    - {label: stat, symerror: 0.0367}
+    - {label: sys, symerror: 0.0696}
+    value: 1.3927
+  - errors:
+    - {label: stat, symerror: 0.0292}
+    - {label: sys, symerror: 0.0477}
+    value: 0.9532
+  - errors:
+    - {label: stat, symerror: 0.0236}
+    - {label: sys, symerror: 0.0313}
+    value: 0.6256
+  - errors:
+    - {label: stat, symerror: 0.0199}
+    - {label: sys, symerror: 0.0221}
+    value: 0.4415
+  - errors:
+    - {label: stat, symerror: 0.0176}
+    - {label: sys, symerror: 0.017}
+    value: 0.3406
+  - errors:
+    - {label: stat, symerror: 0.014}
+    - {label: sys, symerror: 0.0105}
+    value: 0.2108
+  - errors:
+    - {label: stat, symerror: 0.0118}
+    - {label: sys, symerror: 0.0071}
+    value: 0.1422
+  - errors:
+    - {label: stat, symerror: 0.0119}
+    - {label: sys, symerror: 0.0056}
+    value: 0.1128
+  - errors:
+    - {label: stat, symerror: 0.01}
+    - {label: sys, symerror: 0.0036}
+    value: 0.0714
+- header: {name: '$DVM^{h^{-}}$'}
+  qualifiers:
+  - {name: PLAB, units: GEV, value: '160.0'}
+  - {name: RE, value: '$\mu^{+}$ d --> $\mu''^{+}$ $h^{-}$ X'}
+  values:
+  - errors: []
+    value: 0.9829
+  - errors: []
+    value: 0.9749
+  - errors: []
+    value: 0.9698
+  - errors: []
+    value: 0.9516
+  - errors: []
+    value: 0.9325
+  - errors: []
+    value: 0.915
+  - errors: []
+    value: 0.8916
+  - errors: []
+    value: 0.8673
+  - errors: []
+    value: 0.8263
+  - errors: []
+    value: 0.8094
+  - errors: []
+    value: 0.9842
+  - errors: []
+    value: 0.9784
+  - errors: []
+    value: 0.9722
+  - errors: []
+    value: 0.9562
+  - errors: []
+    value: 0.9418
+  - errors: []
+    value: 0.9293
+  - errors: []
+    value: 0.9193
+  - errors: []
+    value: 0.8839
+  - errors: []
+    value: 0.8201
+  - errors: []
+    value: 0.8269
+  - errors: []
+    value: 0.7826
+  - errors: []
+    value: 0.7435
+  - errors: []
+    value: 0.6202
+  - errors: []
+    value: 0.9738
+  - errors: []
+    value: 0.9574
+  - errors: []
+    value: 0.9366
+  - errors: []
+    value: 0.9214
+  - errors: []
+    value: 0.8987
+  - errors: []
+    value: 0.8653
+  - errors: []
+    value: 0.8482
+  - errors: []
+    value: 0.8487
+  - errors: []
+    value: 0.7845
+  - errors: []
+    value: 0.6741
+  - errors: []
+    value: 0.9888
+  - errors: []
+    value: 0.9839
+  - errors: []
+    value: 0.9808
+  - errors: []
+    value: 0.9663
+  - errors: []
+    value: 0.9528
+  - errors: []
+    value: 0.9437
+  - errors: []
+    value: 0.9224
+  - errors: []
+    value: 0.8962
+  - errors: []
+    value: 0.8754
+  - errors: []
+    value: 0.8574
+  - errors: []
+    value: 0.789
+  - errors: []
+    value: 0.7304
+  - errors: []
+    value: 0.9917
+  - errors: []
+    value: 0.9893
+  - errors: []
+    value: 0.9866
+  - errors: []
+    value: 0.9782
+  - errors: []
+    value: 0.9692
+  - errors: []
+    value: 0.8262
+  - errors: []
+    value: 0.8508
+  - errors: []
+    value: 0.7979
+  - errors: []
+    value: 0.7442
+  - errors: []
+    value: 0.6672
+  - errors: []
+    value: 0.9484
+  - errors: []
+    value: 0.9264
+  - errors: []
+    value: 0.9029
+  - errors: []
+    value: 0.8713
+  - errors: []
+    value: 0.8501
+  - errors: []
+    value: 0.8364
+  - errors: []
+    value: 0.7947
+  - errors: []
+    value: 0.6689
+  - errors: []
+    value: 0.9836
+  - errors: []
+    value: 0.9723
+  - errors: []
+    value: 0.9595
+  - errors: []
+    value: 0.9514
+  - errors: []
+    value: 0.9378
+  - errors: []
+    value: 0.9142
+  - errors: []
+    value: 0.9018
+  - errors: []
+    value: 0.8946
+  - errors: []
+    value: 0.8542
+  - errors: []
+    value: 0.74
+  - errors: []
+    value: 0.9939
+  - errors: []
+    value: 0.9917
+  - errors: []
+    value: 0.9896
+  - errors: []
+    value: 0.9834
+  - errors: []
+    value: 0.9771
+  - errors: []
+    value: 0.9741
+  - errors: []
+    value: 0.9634
+  - errors: []
+    value: 0.9437
+  - errors: []
+    value: 0.9385
+  - errors: []
+    value: 0.9112
+  - errors: []
+    value: 0.8722
+  - errors: []
+    value: 0.8284
+  - errors: []
+    value: 0.9954
+  - errors: []
+    value: 0.9944
+  - errors: []
+    value: 0.9927
+  - errors: []
+    value: 0.9886
+  - errors: []
+    value: 0.9839
+  - errors: []
+    value: 0.8806
+  - errors: []
+    value: 0.8667
+  - errors: []
+    value: 0.8463
+  - errors: []
+    value: 0.7726
+  - errors: []
+    value: 0.6746
+  - errors: []
+    value: 0.9619
+  - errors: []
+    value: 0.9471
+  - errors: []
+    value: 0.935
+  - errors: []
+    value: 0.9098
+  - errors: []
+    value: 0.9016
+  - errors: []
+    value: 0.88
+  - errors: []
+    value: 0.8557
+  - errors: []
+    value: 0.7361
+  - errors: []
+    value: 0.9898
+  - errors: []
+    value: 0.9827
+  - errors: []
+    value: 0.9745
+  - errors: []
+    value: 0.9728
+  - errors: []
+    value: 0.9624
+  - errors: []
+    value: 0.9483
+  - errors: []
+    value: 0.9382
+  - errors: []
+    value: 0.9257
+  - errors: []
+    value: 0.8889
+  - errors: []
+    value: 0.8147
+  - errors: []
+    value: 0.9958
+  - errors: []
+    value: 0.9943
+  - errors: []
+    value: 0.9928
+  - errors: []
+    value: 0.989
+  - errors: []
+    value: 0.9854
+  - errors: []
+    value: 0.9847
+  - errors: []
+    value: 0.9766
+  - errors: []
+    value: 0.9644
+  - errors: []
+    value: 0.9534
+  - errors: []
+    value: 0.9473
+  - errors: []
+    value: 0.9207
+  - errors: []
+    value: 0.8127
+  - errors: []
+    value: 0.9966
+  - errors: []
+    value: 0.996
+  - errors: []
+    value: 0.995
+  - errors: []
+    value: 0.9921
+  - errors: []
+    value: 0.9891
+  - errors: []
+    value: 0.9275
+  - errors: []
+    value: 0.91
+  - errors: []
+    value: 0.872
+  - errors: []
+    value: 0.844
+  - errors: []
+    value: 0.7185
+  - errors: []
+    value: 0.9794
+  - errors: []
+    value: 0.9711
+  - errors: []
+    value: 0.967
+  - errors: []
+    value: 0.9451
+  - errors: []
+    value: 0.9321
+  - errors: []
+    value: 0.9305
+  - errors: []
+    value: 0.8867
+  - errors: []
+    value: 0.8167
+  - errors: []
+    value: 0.9938
+  - errors: []
+    value: 0.9879
+  - errors: []
+    value: 0.9831
+  - errors: []
+    value: 0.9818
+  - errors: []
+    value: 0.9745
+  - errors: []
+    value: 0.9626
+  - errors: []
+    value: 0.9573
+  - errors: []
+    value: 0.9466
+  - errors: []
+    value: 0.9173
+  - errors: []
+    value: 0.838
+  - errors: []
+    value: 0.9968
+  - errors: []
+    value: 0.9959
+  - errors: []
+    value: 0.9951
+  - errors: []
+    value: 0.9922
+  - errors: []
+    value: 0.9903
+  - errors: []
+    value: 0.9886
+  - errors: []
+    value: 0.9848
+  - errors: []
+    value: 0.9768
+  - errors: []
+    value: 0.9675
+  - errors: []
+    value: 0.9605
+  - errors: []
+    value: 0.9342
+  - errors: []
+    value: 0.8828
+  - errors: []
+    value: 0.9976
+  - errors: []
+    value: 0.9969
+  - errors: []
+    value: 0.9963
+  - errors: []
+    value: 0.994
+  - errors: []
+    value: 0.9924
+  - errors: []
+    value: 0.9553
+  - errors: []
+    value: 0.942
+  - errors: []
+    value: 0.92
+  - errors: []
+    value: 0.893
+  - errors: []
+    value: 0.807
+  - errors: []
+    value: 0.9862
+  - errors: []
+    value: 0.9829
+  - errors: []
+    value: 0.9781
+  - errors: []
+    value: 0.9661
+  - errors: []
+    value: 0.9583
+  - errors: []
+    value: 0.949
+  - errors: []
+    value: 0.9263
+  - errors: []
+    value: 0.8609
+  - errors: []
+    value: 0.9955
+  - errors: []
+    value: 0.9925
+  - errors: []
+    value: 0.9903
+  - errors: []
+    value: 0.9899
+  - errors: []
+    value: 0.9858
+  - errors: []
+    value: 0.9784
+  - errors: []
+    value: 0.9726
+  - errors: []
+    value: 0.9652
+  - errors: []
+    value: 0.946
+  - errors: []
+    value: 0.8897
+  - errors: []
+    value: 0.9976
+  - errors: []
+    value: 0.997
+  - errors: []
+    value: 0.9966
+  - errors: []
+    value: 0.9948
+  - errors: []
+    value: 0.9937
+  - errors: []
+    value: 0.9932
+  - errors: []
+    value: 0.9907
+  - errors: []
+    value: 0.9835
+  - errors: []
+    value: 0.9776
+  - errors: []
+    value: 0.9724
+  - errors: []
+    value: 0.9605
+  - errors: []
+    value: 0.9041
+  - errors: []
+    value: 0.9984
+  - errors: []
+    value: 0.9979
+  - errors: []
+    value: 0.9977
+  - errors: []
+    value: 0.9965
+  - errors: []
+    value: 0.9952
+  - errors: []
+    value: 0.9675
+  - errors: []
+    value: 0.9683
+  - errors: []
+    value: 0.9541
+  - errors: []
+    value: 0.9277
+  - errors: []
+    value: 0.8574
+  - errors: []
+    value: 0.9936
+  - errors: []
+    value: 0.9892
+  - errors: []
+    value: 0.9847
+  - errors: []
+    value: 0.9791
+  - errors: []
+    value: 0.9733
+  - errors: []
+    value: 0.9668
+  - errors: []
+    value: 0.9419
+  - errors: []
+    value: 0.8816
+  - errors: []
+    value: 0.9971
+  - errors: []
+    value: 0.995
+  - errors: []
+    value: 0.9939
+  - errors: []
+    value: 0.9932
+  - errors: []
+    value: 0.9911
+  - errors: []
+    value: 0.9861
+  - errors: []
+    value: 0.9808
+  - errors: []
+    value: 0.9752
+  - errors: []
+    value: 0.9599
+  - errors: []
+    value: 0.9183
+  - errors: []
+    value: 0.9984
+  - errors: []
+    value: 0.9979
+  - errors: []
+    value: 0.9977
+  - errors: []
+    value: 0.9966
+  - errors: []
+    value: 0.996
+  - errors: []
+    value: 0.9957
+  - errors: []
+    value: 0.9939
+  - errors: []
+    value: 0.9908
+  - errors: []
+    value: 0.9885
+  - errors: []
+    value: 0.9801
+  - errors: []
+    value: 0.971
+  - errors: []
+    value: 0.9989
+  - errors: []
+    value: 0.9985
+  - errors: []
+    value: 0.9984
+  - errors: []
+    value: 0.9979
+  - errors: []
+    value: 0.9973
+  - errors: []
+    value: 0.9799
+  - errors: []
+    value: 0.9742
+  - errors: []
+    value: 0.9695
+  - errors: []
+    value: 0.9424
+  - errors: []
+    value: 0.8932
+  - errors: []
+    value: 0.9947
+  - errors: []
+    value: 0.9929
+  - errors: []
+    value: 0.9898
+  - errors: []
+    value: 0.9846
+  - errors: []
+    value: 0.9784
+  - errors: []
+    value: 0.9701
+  - errors: []
+    value: 0.9464
+  - errors: []
+    value: 0.9071
+  - errors: []
+    value: 0.9978
+  - errors: []
+    value: 0.9962
+  - errors: []
+    value: 0.9956
+  - errors: []
+    value: 0.9947
+  - errors: []
+    value: 0.9927
+  - errors: []
+    value: 0.9886
+  - errors: []
+    value: 0.9831
+  - errors: []
+    value: 0.9805
+  - errors: []
+    value: 0.9671
+  - errors: []
+    value: 0.9255
+  - errors: []
+    value: 0.9989
+  - errors: []
+    value: 0.9983
+  - errors: []
+    value: 0.9982
+  - errors: []
+    value: 0.9974
+  - errors: []
+    value: 0.9971
+  - errors: []
+    value: 0.9969
+  - errors: []
+    value: 0.9956
+  - errors: []
+    value: 0.9928
+  - errors: []
+    value: 0.9892
+  - errors: []
+    value: 0.9859
+  - errors: []
+    value: 0.9731
+  - errors: []
+    value: 0.9956
+  - errors: []
+    value: 0.9944
+  - errors: []
+    value: 0.9927
+  - errors: []
+    value: 0.9885
+  - errors: []
+    value: 0.9855
+  - errors: []
+    value: 0.9773
+  - errors: []
+    value: 0.9653
+  - errors: []
+    value: 0.934
+  - errors: []
+    value: 0.9983
+  - errors: []
+    value: 0.9971
+  - errors: []
+    value: 0.9969
+  - errors: []
+    value: 0.9964
+  - errors: []
+    value: 0.9947
+  - errors: []
+    value: 0.9922
+  - errors: []
+    value: 0.9883
+  - errors: []
+    value: 0.9852
+  - errors: []
+    value: 0.9738
+  - errors: []
+    value: 0.939
+  - errors: []
+    value: 0.9991
+  - errors: []
+    value: 0.9989
+  - errors: []
+    value: 0.9988
+  - errors: []
+    value: 0.9982
+  - errors: []
+    value: 0.9979
+  - errors: []
+    value: 0.9977
+  - errors: []
+    value: 0.997
+  - errors: []
+    value: 0.9946
+  - errors: []
+    value: 0.9923
+  - errors: []
+    value: 0.9893
+- header: {name: '$DVM^{DIS}$'}
+  qualifiers:
+  - {name: PLAB, units: GEV, value: '160.0'}
+  - {name: RE, value: '$\mu^{+}$ d --> $\mu''^{+}$ $h^{-}$ X'}
+  values:
+  - errors: []
+    value: 0.961
+  - errors: []
+    value: 0.9607
+  - errors: []
+    value: 0.9607
+  - errors: []
+    value: 0.9607
+  - errors: []
+    value: 0.9607
+  - errors: []
+    value: 0.9605
+  - errors: []
+    value: 0.9599
+  - errors: []
+    value: 0.9589
+  - errors: []
+    value: 0.958
+  - errors: []
+    value: 0.9536
+  - errors: []
+    value: 0.9648
+  - errors: []
+    value: 0.9648
+  - errors: []
+    value: 0.9648
+  - errors: []
+    value: 0.9646
+  - errors: []
+    value: 0.9645
+  - errors: []
+    value: 0.9559
+  - errors: []
+    value: 0.9534
+  - errors: []
+    value: 0.9534
+  - errors: []
+    value: 0.9534
+  - errors: []
+    value: 0.9534
+  - errors: []
+    value: 0.9534
+  - errors: []
+    value: 0.9534
+  - errors: []
+    value: 0.9534
+  - errors: []
+    value: 0.9649
+  - errors: []
+    value: 0.9634
+  - errors: []
+    value: 0.9627
+  - errors: []
+    value: 0.9627
+  - errors: []
+    value: 0.9627
+  - errors: []
+    value: 0.9627
+  - errors: []
+    value: 0.9627
+  - errors: []
+    value: 0.9627
+  - errors: []
+    value: 0.9627
+  - errors: []
+    value: 0.9625
+  - errors: []
+    value: 0.9757
+  - errors: []
+    value: 0.9728
+  - errors: []
+    value: 0.9726
+  - errors: []
+    value: 0.9726
+  - errors: []
+    value: 0.9726
+  - errors: []
+    value: 0.9724
+  - errors: []
+    value: 0.9715
+  - errors: []
+    value: 0.9702
+  - errors: []
+    value: 0.9691
+  - errors: []
+    value: 0.968
+  - errors: []
+    value: 0.9675
+  - errors: []
+    value: 0.9674
+  - errors: []
+    value: 0.9816
+  - errors: []
+    value: 0.9816
+  - errors: []
+    value: 0.9815
+  - errors: []
+    value: 0.981
+  - errors: []
+    value: 0.98
+  - errors: []
+    value: 0.953
+  - errors: []
+    value: 0.952
+  - errors: []
+    value: 0.9515
+  - errors: []
+    value: 0.9517
+  - errors: []
+    value: 0.9517
+  - errors: []
+    value: 0.9658
+  - errors: []
+    value: 0.9635
+  - errors: []
+    value: 0.9613
+  - errors: []
+    value: 0.961
+  - errors: []
+    value: 0.961
+  - errors: []
+    value: 0.961
+  - errors: []
+    value: 0.961
+  - errors: []
+    value: 0.961
+  - errors: []
+    value: 0.9786
+  - errors: []
+    value: 0.976
+  - errors: []
+    value: 0.9748
+  - errors: []
+    value: 0.9748
+  - errors: []
+    value: 0.9748
+  - errors: []
+    value: 0.9748
+  - errors: []
+    value: 0.9748
+  - errors: []
+    value: 0.9748
+  - errors: []
+    value: 0.9748
+  - errors: []
+    value: 0.9744
+  - errors: []
+    value: 0.987
+  - errors: []
+    value: 0.9853
+  - errors: []
+    value: 0.9852
+  - errors: []
+    value: 0.9852
+  - errors: []
+    value: 0.9852
+  - errors: []
+    value: 0.9851
+  - errors: []
+    value: 0.9846
+  - errors: []
+    value: 0.9839
+  - errors: []
+    value: 0.9832
+  - errors: []
+    value: 0.9826
+  - errors: []
+    value: 0.9821
+  - errors: []
+    value: 0.9815
+  - errors: []
+    value: 0.9899
+  - errors: []
+    value: 0.9899
+  - errors: []
+    value: 0.9898
+  - errors: []
+    value: 0.9896
+  - errors: []
+    value: 0.9893
+  - errors: []
+    value: 0.9651
+  - errors: []
+    value: 0.9628
+  - errors: []
+    value: 0.9614
+  - errors: []
+    value: 0.959
+  - errors: []
+    value: 0.9572
+  - errors: []
+    value: 0.9777
+  - errors: []
+    value: 0.9754
+  - errors: []
+    value: 0.9736
+  - errors: []
+    value: 0.9733
+  - errors: []
+    value: 0.9733
+  - errors: []
+    value: 0.9733
+  - errors: []
+    value: 0.9733
+  - errors: []
+    value: 0.9733
+  - errors: []
+    value: 0.9856
+  - errors: []
+    value: 0.9841
+  - errors: []
+    value: 0.9831
+  - errors: []
+    value: 0.9831
+  - errors: []
+    value: 0.9831
+  - errors: []
+    value: 0.9831
+  - errors: []
+    value: 0.9831
+  - errors: []
+    value: 0.9831
+  - errors: []
+    value: 0.9831
+  - errors: []
+    value: 0.9829
+  - errors: []
+    value: 0.9911
+  - errors: []
+    value: 0.99
+  - errors: []
+    value: 0.9899
+  - errors: []
+    value: 0.9899
+  - errors: []
+    value: 0.9899
+  - errors: []
+    value: 0.9898
+  - errors: []
+    value: 0.9895
+  - errors: []
+    value: 0.9892
+  - errors: []
+    value: 0.9888
+  - errors: []
+    value: 0.9884
+  - errors: []
+    value: 0.988
+  - errors: []
+    value: 0.9863
+  - errors: []
+    value: 0.9928
+  - errors: []
+    value: 0.9928
+  - errors: []
+    value: 0.9928
+  - errors: []
+    value: 0.9925
+  - errors: []
+    value: 0.9922
+  - errors: []
+    value: 0.9756
+  - errors: []
+    value: 0.9737
+  - errors: []
+    value: 0.9722
+  - errors: []
+    value: 0.9709
+  - errors: []
+    value: 0.9694
+  - errors: []
+    value: 0.9841
+  - errors: []
+    value: 0.9831
+  - errors: []
+    value: 0.9821
+  - errors: []
+    value: 0.9819
+  - errors: []
+    value: 0.9819
+  - errors: []
+    value: 0.9819
+  - errors: []
+    value: 0.9819
+  - errors: []
+    value: 0.9819
+  - errors: []
+    value: 0.9898
+  - errors: []
+    value: 0.9887
+  - errors: []
+    value: 0.9881
+  - errors: []
+    value: 0.9881
+  - errors: []
+    value: 0.9881
+  - errors: []
+    value: 0.9881
+  - errors: []
+    value: 0.9881
+  - errors: []
+    value: 0.9881
+  - errors: []
+    value: 0.9881
+  - errors: []
+    value: 0.9879
+  - errors: []
+    value: 0.9933
+  - errors: []
+    value: 0.9927
+  - errors: []
+    value: 0.9926
+  - errors: []
+    value: 0.9926
+  - errors: []
+    value: 0.9926
+  - errors: []
+    value: 0.9926
+  - errors: []
+    value: 0.9924
+  - errors: []
+    value: 0.9921
+  - errors: []
+    value: 0.992
+  - errors: []
+    value: 0.9918
+  - errors: []
+    value: 0.9916
+  - errors: []
+    value: 0.9914
+  - errors: []
+    value: 0.9949
+  - errors: []
+    value: 0.9949
+  - errors: []
+    value: 0.9949
+  - errors: []
+    value: 0.9947
+  - errors: []
+    value: 0.9945
+  - errors: []
+    value: 0.9845
+  - errors: []
+    value: 0.984
+  - errors: []
+    value: 0.9832
+  - errors: []
+    value: 0.9823
+  - errors: []
+    value: 0.9816
+  - errors: []
+    value: 0.9902
+  - errors: []
+    value: 0.9894
+  - errors: []
+    value: 0.9887
+  - errors: []
+    value: 0.9885
+  - errors: []
+    value: 0.9885
+  - errors: []
+    value: 0.9885
+  - errors: []
+    value: 0.9885
+  - errors: []
+    value: 0.9885
+  - errors: []
+    value: 0.9934
+  - errors: []
+    value: 0.9928
+  - errors: []
+    value: 0.9925
+  - errors: []
+    value: 0.9925
+  - errors: []
+    value: 0.9925
+  - errors: []
+    value: 0.9925
+  - errors: []
+    value: 0.9925
+  - errors: []
+    value: 0.9925
+  - errors: []
+    value: 0.9925
+  - errors: []
+    value: 0.9924
+  - errors: []
+    value: 0.9955
+  - errors: []
+    value: 0.995
+  - errors: []
+    value: 0.9949
+  - errors: []
+    value: 0.9949
+  - errors: []
+    value: 0.9949
+  - errors: []
+    value: 0.9949
+  - errors: []
+    value: 0.9948
+  - errors: []
+    value: 0.9947
+  - errors: []
+    value: 0.9945
+  - errors: []
+    value: 0.9944
+  - errors: []
+    value: 0.9942
+  - errors: []
+    value: 0.9944
+  - errors: []
+    value: 0.9966
+  - errors: []
+    value: 0.9966
+  - errors: []
+    value: 0.9966
+  - errors: []
+    value: 0.9965
+  - errors: []
+    value: 0.9963
+  - errors: []
+    value: 0.9902
+  - errors: []
+    value: 0.9898
+  - errors: []
+    value: 0.9893
+  - errors: []
+    value: 0.9886
+  - errors: []
+    value: 0.9882
+  - errors: []
+    value: 0.9935
+  - errors: []
+    value: 0.993
+  - errors: []
+    value: 0.9925
+  - errors: []
+    value: 0.9924
+  - errors: []
+    value: 0.9924
+  - errors: []
+    value: 0.9924
+  - errors: []
+    value: 0.9924
+  - errors: []
+    value: 0.9924
+  - errors: []
+    value: 0.9955
+  - errors: []
+    value: 0.995
+  - errors: []
+    value: 0.9948
+  - errors: []
+    value: 0.9948
+  - errors: []
+    value: 0.9948
+  - errors: []
+    value: 0.9948
+  - errors: []
+    value: 0.9948
+  - errors: []
+    value: 0.9948
+  - errors: []
+    value: 0.9948
+  - errors: []
+    value: 0.9948
+  - errors: []
+    value: 0.997
+  - errors: []
+    value: 0.9966
+  - errors: []
+    value: 0.9966
+  - errors: []
+    value: 0.9966
+  - errors: []
+    value: 0.9966
+  - errors: []
+    value: 0.9966
+  - errors: []
+    value: 0.9965
+  - errors: []
+    value: 0.9964
+  - errors: []
+    value: 0.9963
+  - errors: []
+    value: 0.9962
+  - errors: []
+    value: 0.9962
+  - errors: []
+    value: 0.9978
+  - errors: []
+    value: 0.9978
+  - errors: []
+    value: 0.9978
+  - errors: []
+    value: 0.9977
+  - errors: []
+    value: 0.9976
+  - errors: []
+    value: 0.9928
+  - errors: []
+    value: 0.9923
+  - errors: []
+    value: 0.9919
+  - errors: []
+    value: 0.9914
+  - errors: []
+    value: 0.9909
+  - errors: []
+    value: 0.9948
+  - errors: []
+    value: 0.9944
+  - errors: []
+    value: 0.9942
+  - errors: []
+    value: 0.9941
+  - errors: []
+    value: 0.9941
+  - errors: []
+    value: 0.9941
+  - errors: []
+    value: 0.9941
+  - errors: []
+    value: 0.9941
+  - errors: []
+    value: 0.9965
+  - errors: []
+    value: 0.9961
+  - errors: []
+    value: 0.9959
+  - errors: []
+    value: 0.9959
+  - errors: []
+    value: 0.9959
+  - errors: []
+    value: 0.9959
+  - errors: []
+    value: 0.9959
+  - errors: []
+    value: 0.9959
+  - errors: []
+    value: 0.9959
+  - errors: []
+    value: 0.9959
+  - errors: []
+    value: 0.9977
+  - errors: []
+    value: 0.9974
+  - errors: []
+    value: 0.9974
+  - errors: []
+    value: 0.9974
+  - errors: []
+    value: 0.9974
+  - errors: []
+    value: 0.9974
+  - errors: []
+    value: 0.9973
+  - errors: []
+    value: 0.9972
+  - errors: []
+    value: 0.9972
+  - errors: []
+    value: 0.9972
+  - errors: []
+    value: 0.9971
+  - errors: []
+    value: 0.9955
+  - errors: []
+    value: 0.9955
+  - errors: []
+    value: 0.9954
+  - errors: []
+    value: 0.9954
+  - errors: []
+    value: 0.9954
+  - errors: []
+    value: 0.9954
+  - errors: []
+    value: 0.9954
+  - errors: []
+    value: 0.9954
+  - errors: []
+    value: 0.9974
+  - errors: []
+    value: 0.9971
+  - errors: []
+    value: 0.9969
+  - errors: []
+    value: 0.9969
+  - errors: []
+    value: 0.9969
+  - errors: []
+    value: 0.9969
+  - errors: []
+    value: 0.9969
+  - errors: []
+    value: 0.9969
+  - errors: []
+    value: 0.9969
+  - errors: []
+    value: 0.9969
+  - errors: []
+    value: 0.9983
+  - errors: []
+    value: 0.9981
+  - errors: []
+    value: 0.9981
+  - errors: []
+    value: 0.9981
+  - errors: []
+    value: 0.9981
+  - errors: []
+    value: 0.9981
+  - errors: []
+    value: 0.998
+  - errors: []
+    value: 0.998
+  - errors: []
+    value: 0.9979
+  - errors: []
+    value: 0.9979
+- header: {name: '$\eta^{h^{-}}$'}
+  qualifiers:
+  - {name: PLAB, units: GEV, value: '160.0'}
+  - {name: RE, value: '$\mu^{+}$ d --> $\mu''^{+}$ $h^{-}$ X'}
+  values:
+  - errors: []
+    value: 0.8965
+  - errors: []
+    value: 0.8974
+  - errors: []
+    value: 0.8973
+  - errors: []
+    value: 0.8973
+  - errors: []
+    value: 0.8974
+  - errors: []
+    value: 0.8977
+  - errors: []
+    value: 0.8999
+  - errors: []
+    value: 0.9021
+  - errors: []
+    value: 0.9041
+  - errors: []
+    value: 0.9056
+  - errors: []
+    value: 0.878
+  - errors: []
+    value: 0.878
+  - errors: []
+    value: 0.8784
+  - errors: []
+    value: 0.8828
+  - errors: []
+    value: 0.8872
+  - errors: []
+    value: 0.9269
+  - errors: []
+    value: 0.9277
+  - errors: []
+    value: 0.9277
+  - errors: []
+    value: 0.9277
+  - errors: []
+    value: 0.9278
+  - errors: []
+    value: 0.9277
+  - errors: []
+    value: 0.9278
+  - errors: []
+    value: 0.9276
+  - errors: []
+    value: 0.916
+  - errors: []
+    value: 0.9181
+  - errors: []
+    value: 0.9188
+  - errors: []
+    value: 0.9187
+  - errors: []
+    value: 0.9188
+  - errors: []
+    value: 0.9187
+  - errors: []
+    value: 0.9188
+  - errors: []
+    value: 0.9188
+  - errors: []
+    value: 0.9189
+  - errors: []
+    value: 0.9193
+  - errors: []
+    value: 0.8996
+  - errors: []
+    value: 0.9037
+  - errors: []
+    value: 0.904
+  - errors: []
+    value: 0.904
+  - errors: []
+    value: 0.9041
+  - errors: []
+    value: 0.9043
+  - errors: []
+    value: 0.9058
+  - errors: []
+    value: 0.9074
+  - errors: []
+    value: 0.9087
+  - errors: []
+    value: 0.9099
+  - errors: []
+    value: 0.911
+  - errors: []
+    value: 0.9127
+  - errors: []
+    value: 0.8801
+  - errors: []
+    value: 0.8802
+  - errors: []
+    value: 0.8802
+  - errors: []
+    value: 0.8844
+  - errors: []
+    value: 0.8885
+  - errors: []
+    value: 0.938
+  - errors: []
+    value: 0.939
+  - errors: []
+    value: 0.9395
+  - errors: []
+    value: 0.9396
+  - errors: []
+    value: 0.9396
+  - errors: []
+    value: 0.9301
+  - errors: []
+    value: 0.9315
+  - errors: []
+    value: 0.9325
+  - errors: []
+    value: 0.9328
+  - errors: []
+    value: 0.9328
+  - errors: []
+    value: 0.9328
+  - errors: []
+    value: 0.9327
+  - errors: []
+    value: 0.9328
+  - errors: []
+    value: 0.9209
+  - errors: []
+    value: 0.9231
+  - errors: []
+    value: 0.9242
+  - errors: []
+    value: 0.9242
+  - errors: []
+    value: 0.9242
+  - errors: []
+    value: 0.9243
+  - errors: []
+    value: 0.9243
+  - errors: []
+    value: 0.9244
+  - errors: []
+    value: 0.9243
+  - errors: []
+    value: 0.9244
+  - errors: []
+    value: 0.9042
+  - errors: []
+    value: 0.9087
+  - errors: []
+    value: 0.9091
+  - errors: []
+    value: 0.9091
+  - errors: []
+    value: 0.9091
+  - errors: []
+    value: 0.9093
+  - errors: []
+    value: 0.9107
+  - errors: []
+    value: 0.9124
+  - errors: []
+    value: 0.9139
+  - errors: []
+    value: 0.915
+  - errors: []
+    value: 0.9162
+  - errors: []
+    value: 0.9177
+  - errors: []
+    value: 0.8854
+  - errors: []
+    value: 0.8853
+  - errors: []
+    value: 0.8855
+  - errors: []
+    value: 0.889
+  - errors: []
+    value: 0.8929
+  - errors: []
+    value: 0.9422
+  - errors: []
+    value: 0.9431
+  - errors: []
+    value: 0.944
+  - errors: []
+    value: 0.9448
+  - errors: []
+    value: 0.9454
+  - errors: []
+    value: 0.9352
+  - errors: []
+    value: 0.9365
+  - errors: []
+    value: 0.9376
+  - errors: []
+    value: 0.9377
+  - errors: []
+    value: 0.9379
+  - errors: []
+    value: 0.9379
+  - errors: []
+    value: 0.9379
+  - errors: []
+    value: 0.9379
+  - errors: []
+    value: 0.9253
+  - errors: []
+    value: 0.9276
+  - errors: []
+    value: 0.9286
+  - errors: []
+    value: 0.9287
+  - errors: []
+    value: 0.9286
+  - errors: []
+    value: 0.9286
+  - errors: []
+    value: 0.9287
+  - errors: []
+    value: 0.9287
+  - errors: []
+    value: 0.9287
+  - errors: []
+    value: 0.9289
+  - errors: []
+    value: 0.9082
+  - errors: []
+    value: 0.9131
+  - errors: []
+    value: 0.9134
+  - errors: []
+    value: 0.9135
+  - errors: []
+    value: 0.9135
+  - errors: []
+    value: 0.9136
+  - errors: []
+    value: 0.9151
+  - errors: []
+    value: 0.9167
+  - errors: []
+    value: 0.9182
+  - errors: []
+    value: 0.9194
+  - errors: []
+    value: 0.9204
+  - errors: []
+    value: 0.9223
+  - errors: []
+    value: 0.8898
+  - errors: []
+    value: 0.8898
+  - errors: []
+    value: 0.8901
+  - errors: []
+    value: 0.8933
+  - errors: []
+    value: 0.897
+  - errors: []
+    value: 0.9475
+  - errors: []
+    value: 0.9486
+  - errors: []
+    value: 0.9495
+  - errors: []
+    value: 0.9504
+  - errors: []
+    value: 0.9512
+  - errors: []
+    value: 0.9407
+  - errors: []
+    value: 0.942
+  - errors: []
+    value: 0.943
+  - errors: []
+    value: 0.9433
+  - errors: []
+    value: 0.9433
+  - errors: []
+    value: 0.9432
+  - errors: []
+    value: 0.9433
+  - errors: []
+    value: 0.9433
+  - errors: []
+    value: 0.9304
+  - errors: []
+    value: 0.9327
+  - errors: []
+    value: 0.9338
+  - errors: []
+    value: 0.934
+  - errors: []
+    value: 0.934
+  - errors: []
+    value: 0.9339
+  - errors: []
+    value: 0.934
+  - errors: []
+    value: 0.9339
+  - errors: []
+    value: 0.9338
+  - errors: []
+    value: 0.9343
+  - errors: []
+    value: 0.9131
+  - errors: []
+    value: 0.9181
+  - errors: []
+    value: 0.9184
+  - errors: []
+    value: 0.9185
+  - errors: []
+    value: 0.9186
+  - errors: []
+    value: 0.9187
+  - errors: []
+    value: 0.9198
+  - errors: []
+    value: 0.9215
+  - errors: []
+    value: 0.9229
+  - errors: []
+    value: 0.9243
+  - errors: []
+    value: 0.9255
+  - errors: []
+    value: 0.9259
+  - errors: []
+    value: 0.8955
+  - errors: []
+    value: 0.8954
+  - errors: []
+    value: 0.8956
+  - errors: []
+    value: 0.8984
+  - errors: []
+    value: 0.9014
+  - errors: []
+    value: 0.9568
+  - errors: []
+    value: 0.9577
+  - errors: []
+    value: 0.9589
+  - errors: []
+    value: 0.9593
+  - errors: []
+    value: 0.96
+  - errors: []
+    value: 0.9494
+  - errors: []
+    value: 0.9507
+  - errors: []
+    value: 0.9518
+  - errors: []
+    value: 0.9521
+  - errors: []
+    value: 0.9522
+  - errors: []
+    value: 0.952
+  - errors: []
+    value: 0.9522
+  - errors: []
+    value: 0.9521
+  - errors: []
+    value: 0.9386
+  - errors: []
+    value: 0.9411
+  - errors: []
+    value: 0.9424
+  - errors: []
+    value: 0.9424
+  - errors: []
+    value: 0.9425
+  - errors: []
+    value: 0.9426
+  - errors: []
+    value: 0.9425
+  - errors: []
+    value: 0.9426
+  - errors: []
+    value: 0.9424
+  - errors: []
+    value: 0.9426
+  - errors: []
+    value: 0.9214
+  - errors: []
+    value: 0.927
+  - errors: []
+    value: 0.9274
+  - errors: []
+    value: 0.9274
+  - errors: []
+    value: 0.9275
+  - errors: []
+    value: 0.9274
+  - errors: []
+    value: 0.9285
+  - errors: []
+    value: 0.9298
+  - errors: []
+    value: 0.931
+  - errors: []
+    value: 0.9321
+  - errors: []
+    value: 0.9331
+  - errors: []
+    value: 0.9342
+  - errors: []
+    value: 0.9045
+  - errors: []
+    value: 0.9043
+  - errors: []
+    value: 0.9041
+  - errors: []
+    value: 0.9069
+  - errors: []
+    value: 0.9099
+  - errors: []
+    value: 0.9674
+  - errors: []
+    value: 0.9682
+  - errors: []
+    value: 0.9694
+  - errors: []
+    value: 0.9701
+  - errors: []
+    value: 0.9706
+  - errors: []
+    value: 0.9595
+  - errors: []
+    value: 0.961
+  - errors: []
+    value: 0.9622
+  - errors: []
+    value: 0.9622
+  - errors: []
+    value: 0.9623
+  - errors: []
+    value: 0.9624
+  - errors: []
+    value: 0.9627
+  - errors: []
+    value: 0.9624
+  - errors: []
+    value: 0.9488
+  - errors: []
+    value: 0.9515
+  - errors: []
+    value: 0.9528
+  - errors: []
+    value: 0.9528
+  - errors: []
+    value: 0.9527
+  - errors: []
+    value: 0.9528
+  - errors: []
+    value: 0.9528
+  - errors: []
+    value: 0.9529
+  - errors: []
+    value: 0.953
+  - errors: []
+    value: 0.9532
+  - errors: []
+    value: 0.9317
+  - errors: []
+    value: 0.9376
+  - errors: []
+    value: 0.9382
+  - errors: []
+    value: 0.9381
+  - errors: []
+    value: 0.9382
+  - errors: []
+    value: 0.9383
+  - errors: []
+    value: 0.9393
+  - errors: []
+    value: 0.9402
+  - errors: []
+    value: 0.9416
+  - errors: []
+    value: 0.9426
+  - errors: []
+    value: 0.9429
+  - errors: []
+    value: 0.9164
+  - errors: []
+    value: 0.9166
+  - errors: []
+    value: 0.9167
+  - errors: []
+    value: 0.9187
+  - errors: []
+    value: 0.9213
+  - errors: []
+    value: 0.9768
+  - errors: []
+    value: 0.9777
+  - errors: []
+    value: 0.9783
+  - errors: []
+    value: 0.9796
+  - errors: []
+    value: 0.9799
+  - errors: []
+    value: 0.9685
+  - errors: []
+    value: 0.97
+  - errors: []
+    value: 0.9714
+  - errors: []
+    value: 0.9714
+  - errors: []
+    value: 0.9716
+  - errors: []
+    value: 0.9715
+  - errors: []
+    value: 0.9713
+  - errors: []
+    value: 0.9717
+  - errors: []
+    value: 0.9578
+  - errors: []
+    value: 0.9608
+  - errors: []
+    value: 0.9617
+  - errors: []
+    value: 0.9619
+  - errors: []
+    value: 0.9618
+  - errors: []
+    value: 0.9621
+  - errors: []
+    value: 0.9624
+  - errors: []
+    value: 0.9621
+  - errors: []
+    value: 0.9619
+  - errors: []
+    value: 0.9623
+  - errors: []
+    value: 0.9411
+  - errors: []
+    value: 0.947
+  - errors: []
+    value: 0.9473
+  - errors: []
+    value: 0.9473
+  - errors: []
+    value: 0.947
+  - errors: []
+    value: 0.9478
+  - errors: []
+    value: 0.9478
+  - errors: []
+    value: 0.9492
+  - errors: []
+    value: 0.9502
+  - errors: []
+    value: 0.9515
+  - errors: []
+    value: 0.9519
+  - errors: []
+    value: 0.9811
+  - errors: []
+    value: 0.9842
+  - errors: []
+    value: 0.9848
+  - errors: []
+    value: 0.9848
+  - errors: []
+    value: 0.9842
+  - errors: []
+    value: 0.9847
+  - errors: []
+    value: 0.985
+  - errors: []
+    value: 0.9844
+  - errors: []
+    value: 0.9729
+  - errors: []
+    value: 0.9752
+  - errors: []
+    value: 0.9764
+  - errors: []
+    value: 0.9764
+  - errors: []
+    value: 0.9767
+  - errors: []
+    value: 0.9761
+  - errors: []
+    value: 0.9753
+  - errors: []
+    value: 0.9764
+  - errors: []
+    value: 0.9752
+  - errors: []
+    value: 0.9775
+  - errors: []
+    value: 0.9556
+  - errors: []
+    value: 0.9616
+  - errors: []
+    value: 0.963
+  - errors: []
+    value: 0.963
+  - errors: []
+    value: 0.9623
+  - errors: []
+    value: 0.9625
+  - errors: []
+    value: 0.964
+  - errors: []
+    value: 0.9641
+  - errors: []
+    value: 0.967
+  - errors: []
+    value: 0.9676
+- header: {name: '$\eta^{DIS}$'}
+  qualifiers:
+  - {name: PLAB, units: GEV, value: '160.0'}
+  - {name: RE, value: '$\mu^{+}$ d --> $\mu''^{+}$ $h^{-}$ X'}
+  values:
+  - errors: []
+    value: 0.8767
+  - errors: []
+    value: 0.8781
+  - errors: []
+    value: 0.8781
+  - errors: []
+    value: 0.8781
+  - errors: []
+    value: 0.8781
+  - errors: []
+    value: 0.8787
+  - errors: []
+    value: 0.883
+  - errors: []
+    value: 0.8874
+  - errors: []
+    value: 0.8907
+  - errors: []
+    value: 0.8935
+  - errors: []
+    value: 0.8313
+  - errors: []
+    value: 0.8313
+  - errors: []
+    value: 0.8319
+  - errors: []
+    value: 0.8457
+  - errors: []
+    value: 0.8571
+  - errors: []
+    value: 0.9224
+  - errors: []
+    value: 0.9234
+  - errors: []
+    value: 0.9234
+  - errors: []
+    value: 0.9234
+  - errors: []
+    value: 0.9234
+  - errors: []
+    value: 0.9234
+  - errors: []
+    value: 0.9234
+  - errors: []
+    value: 0.9234
+  - errors: []
+    value: 0.9099
+  - errors: []
+    value: 0.9123
+  - errors: []
+    value: 0.9131
+  - errors: []
+    value: 0.9131
+  - errors: []
+    value: 0.9131
+  - errors: []
+    value: 0.9131
+  - errors: []
+    value: 0.9131
+  - errors: []
+    value: 0.9131
+  - errors: []
+    value: 0.9131
+  - errors: []
+    value: 0.9136
+  - errors: []
+    value: 0.8868
+  - errors: []
+    value: 0.8926
+  - errors: []
+    value: 0.8929
+  - errors: []
+    value: 0.8929
+  - errors: []
+    value: 0.8929
+  - errors: []
+    value: 0.8933
+  - errors: []
+    value: 0.8957
+  - errors: []
+    value: 0.8981
+  - errors: []
+    value: 0.9001
+  - errors: []
+    value: 0.9018
+  - errors: []
+    value: 0.9034
+  - errors: []
+    value: 0.9059
+  - errors: []
+    value: 0.8523
+  - errors: []
+    value: 0.8523
+  - errors: []
+    value: 0.8526
+  - errors: []
+    value: 0.861
+  - errors: []
+    value: 0.8689
+  - errors: []
+    value: 0.9347
+  - errors: []
+    value: 0.9357
+  - errors: []
+    value: 0.9363
+  - errors: []
+    value: 0.9364
+  - errors: []
+    value: 0.9364
+  - errors: []
+    value: 0.927
+  - errors: []
+    value: 0.9283
+  - errors: []
+    value: 0.9294
+  - errors: []
+    value: 0.9295
+  - errors: []
+    value: 0.9295
+  - errors: []
+    value: 0.9295
+  - errors: []
+    value: 0.9295
+  - errors: []
+    value: 0.9295
+  - errors: []
+    value: 0.9173
+  - errors: []
+    value: 0.9197
+  - errors: []
+    value: 0.9208
+  - errors: []
+    value: 0.9208
+  - errors: []
+    value: 0.9208
+  - errors: []
+    value: 0.9208
+  - errors: []
+    value: 0.9208
+  - errors: []
+    value: 0.9208
+  - errors: []
+    value: 0.9208
+  - errors: []
+    value: 0.921
+  - errors: []
+    value: 0.8962
+  - errors: []
+    value: 0.9019
+  - errors: []
+    value: 0.9024
+  - errors: []
+    value: 0.9024
+  - errors: []
+    value: 0.9024
+  - errors: []
+    value: 0.9026
+  - errors: []
+    value: 0.9047
+  - errors: []
+    value: 0.9069
+  - errors: []
+    value: 0.9088
+  - errors: []
+    value: 0.9104
+  - errors: []
+    value: 0.9118
+  - errors: []
+    value: 0.9136
+  - errors: []
+    value: 0.8675
+  - errors: []
+    value: 0.8675
+  - errors: []
+    value: 0.8678
+  - errors: []
+    value: 0.8738
+  - errors: []
+    value: 0.8801
+  - errors: []
+    value: 0.9401
+  - errors: []
+    value: 0.9409
+  - errors: []
+    value: 0.9417
+  - errors: []
+    value: 0.9424
+  - errors: []
+    value: 0.943
+  - errors: []
+    value: 0.9333
+  - errors: []
+    value: 0.9346
+  - errors: []
+    value: 0.9357
+  - errors: []
+    value: 0.9359
+  - errors: []
+    value: 0.9359
+  - errors: []
+    value: 0.9359
+  - errors: []
+    value: 0.9359
+  - errors: []
+    value: 0.9359
+  - errors: []
+    value: 0.923
+  - errors: []
+    value: 0.9253
+  - errors: []
+    value: 0.9264
+  - errors: []
+    value: 0.9264
+  - errors: []
+    value: 0.9264
+  - errors: []
+    value: 0.9264
+  - errors: []
+    value: 0.9264
+  - errors: []
+    value: 0.9264
+  - errors: []
+    value: 0.9264
+  - errors: []
+    value: 0.9267
+  - errors: []
+    value: 0.9023
+  - errors: []
+    value: 0.9081
+  - errors: []
+    value: 0.9085
+  - errors: []
+    value: 0.9085
+  - errors: []
+    value: 0.9085
+  - errors: []
+    value: 0.9088
+  - errors: []
+    value: 0.9107
+  - errors: []
+    value: 0.9127
+  - errors: []
+    value: 0.9145
+  - errors: []
+    value: 0.9161
+  - errors: []
+    value: 0.9174
+  - errors: []
+    value: 0.9191
+  - errors: []
+    value: 0.8764
+  - errors: []
+    value: 0.8764
+  - errors: []
+    value: 0.8766
+  - errors: []
+    value: 0.8816
+  - errors: []
+    value: 0.8871
+  - errors: []
+    value: 0.9466
+  - errors: []
+    value: 0.9475
+  - errors: []
+    value: 0.9483
+  - errors: []
+    value: 0.9491
+  - errors: []
+    value: 0.9497
+  - errors: []
+    value: 0.9395
+  - errors: []
+    value: 0.9409
+  - errors: []
+    value: 0.942
+  - errors: []
+    value: 0.9422
+  - errors: []
+    value: 0.9422
+  - errors: []
+    value: 0.9422
+  - errors: []
+    value: 0.9422
+  - errors: []
+    value: 0.9422
+  - errors: []
+    value: 0.9287
+  - errors: []
+    value: 0.9312
+  - errors: []
+    value: 0.9323
+  - errors: []
+    value: 0.9323
+  - errors: []
+    value: 0.9323
+  - errors: []
+    value: 0.9323
+  - errors: []
+    value: 0.9323
+  - errors: []
+    value: 0.9323
+  - errors: []
+    value: 0.9323
+  - errors: []
+    value: 0.9327
+  - errors: []
+    value: 0.9086
+  - errors: []
+    value: 0.9143
+  - errors: []
+    value: 0.9148
+  - errors: []
+    value: 0.9148
+  - errors: []
+    value: 0.9148
+  - errors: []
+    value: 0.915
+  - errors: []
+    value: 0.9167
+  - errors: []
+    value: 0.9186
+  - errors: []
+    value: 0.9203
+  - errors: []
+    value: 0.9218
+  - errors: []
+    value: 0.9231
+  - errors: []
+    value: 0.9248
+  - errors: []
+    value: 0.8851
+  - errors: []
+    value: 0.8851
+  - errors: []
+    value: 0.8852
+  - errors: []
+    value: 0.8894
+  - errors: []
+    value: 0.894
+  - errors: []
+    value: 0.9566
+  - errors: []
+    value: 0.9576
+  - errors: []
+    value: 0.9585
+  - errors: []
+    value: 0.9593
+  - errors: []
+    value: 0.9599
+  - errors: []
+    value: 0.9488
+  - errors: []
+    value: 0.9503
+  - errors: []
+    value: 0.9515
+  - errors: []
+    value: 0.9517
+  - errors: []
+    value: 0.9517
+  - errors: []
+    value: 0.9517
+  - errors: []
+    value: 0.9517
+  - errors: []
+    value: 0.9517
+  - errors: []
+    value: 0.9376
+  - errors: []
+    value: 0.9403
+  - errors: []
+    value: 0.9416
+  - errors: []
+    value: 0.9416
+  - errors: []
+    value: 0.9416
+  - errors: []
+    value: 0.9416
+  - errors: []
+    value: 0.9416
+  - errors: []
+    value: 0.9416
+  - errors: []
+    value: 0.9416
+  - errors: []
+    value: 0.9419
+  - errors: []
+    value: 0.9182
+  - errors: []
+    value: 0.9244
+  - errors: []
+    value: 0.9249
+  - errors: []
+    value: 0.9249
+  - errors: []
+    value: 0.9249
+  - errors: []
+    value: 0.925
+  - errors: []
+    value: 0.9263
+  - errors: []
+    value: 0.9278
+  - errors: []
+    value: 0.9292
+  - errors: []
+    value: 0.9306
+  - errors: []
+    value: 0.9318
+  - errors: []
+    value: 0.9334
+  - errors: []
+    value: 0.8968
+  - errors: []
+    value: 0.8968
+  - errors: []
+    value: 0.8969
+  - errors: []
+    value: 0.9005
+  - errors: []
+    value: 0.9045
+  - errors: []
+    value: 0.9674
+  - errors: []
+    value: 0.9684
+  - errors: []
+    value: 0.9694
+  - errors: []
+    value: 0.9702
+  - errors: []
+    value: 0.9709
+  - errors: []
+    value: 0.9593
+  - errors: []
+    value: 0.9608
+  - errors: []
+    value: 0.9621
+  - errors: []
+    value: 0.9623
+  - errors: []
+    value: 0.9623
+  - errors: []
+    value: 0.9623
+  - errors: []
+    value: 0.9623
+  - errors: []
+    value: 0.9623
+  - errors: []
+    value: 0.9481
+  - errors: []
+    value: 0.9509
+  - errors: []
+    value: 0.9523
+  - errors: []
+    value: 0.9523
+  - errors: []
+    value: 0.9523
+  - errors: []
+    value: 0.9523
+  - errors: []
+    value: 0.9523
+  - errors: []
+    value: 0.9523
+  - errors: []
+    value: 0.9523
+  - errors: []
+    value: 0.9526
+  - errors: []
+    value: 0.9297
+  - errors: []
+    value: 0.936
+  - errors: []
+    value: 0.9365
+  - errors: []
+    value: 0.9365
+  - errors: []
+    value: 0.9365
+  - errors: []
+    value: 0.9366
+  - errors: []
+    value: 0.9377
+  - errors: []
+    value: 0.9389
+  - errors: []
+    value: 0.9401
+  - errors: []
+    value: 0.9413
+  - errors: []
+    value: 0.9424
+  - errors: []
+    value: 0.9114
+  - errors: []
+    value: 0.9114
+  - errors: []
+    value: 0.9115
+  - errors: []
+    value: 0.914
+  - errors: []
+    value: 0.9172
+  - errors: []
+    value: 0.9767
+  - errors: []
+    value: 0.9778
+  - errors: []
+    value: 0.9788
+  - errors: []
+    value: 0.9797
+  - errors: []
+    value: 0.9804
+  - errors: []
+    value: 0.9684
+  - errors: []
+    value: 0.97
+  - errors: []
+    value: 0.9714
+  - errors: []
+    value: 0.9716
+  - errors: []
+    value: 0.9716
+  - errors: []
+    value: 0.9716
+  - errors: []
+    value: 0.9716
+  - errors: []
+    value: 0.9716
+  - errors: []
+    value: 0.9574
+  - errors: []
+    value: 0.9604
+  - errors: []
+    value: 0.9618
+  - errors: []
+    value: 0.9618
+  - errors: []
+    value: 0.9618
+  - errors: []
+    value: 0.9618
+  - errors: []
+    value: 0.9618
+  - errors: []
+    value: 0.9618
+  - errors: []
+    value: 0.9618
+  - errors: []
+    value: 0.962
+  - errors: []
+    value: 0.9396
+  - errors: []
+    value: 0.9456
+  - errors: []
+    value: 0.946
+  - errors: []
+    value: 0.946
+  - errors: []
+    value: 0.946
+  - errors: []
+    value: 0.9462
+  - errors: []
+    value: 0.9472
+  - errors: []
+    value: 0.9484
+  - errors: []
+    value: 0.9496
+  - errors: []
+    value: 0.9508
+  - errors: []
+    value: 0.9518
+  - errors: []
+    value: 0.9841
+  - errors: []
+    value: 0.9861
+  - errors: []
+    value: 0.9876
+  - errors: []
+    value: 0.9879
+  - errors: []
+    value: 0.9879
+  - errors: []
+    value: 0.9879
+  - errors: []
+    value: 0.9879
+  - errors: []
+    value: 0.9879
+  - errors: []
+    value: 0.9737
+  - errors: []
+    value: 0.9765
+  - errors: []
+    value: 0.9779
+  - errors: []
+    value: 0.9779
+  - errors: []
+    value: 0.9779
+  - errors: []
+    value: 0.9779
+  - errors: []
+    value: 0.9779
+  - errors: []
+    value: 0.9779
+  - errors: []
+    value: 0.9779
+  - errors: []
+    value: 0.9781
+  - errors: []
+    value: 0.9546
+  - errors: []
+    value: 0.9617
+  - errors: []
+    value: 0.9622
+  - errors: []
+    value: 0.9622
+  - errors: []
+    value: 0.9622
+  - errors: []
+    value: 0.9623
+  - errors: []
+    value: 0.9631
+  - errors: []
+    value: 0.9643
+  - errors: []
+    value: 0.9656
+  - errors: []
+    value: 0.9669
+independent_variables:
+- header: {name: $x$}
+  values:
+  - {high: 0.01, low: 0.004, value: 0.0087}
+  - {high: 0.01, low: 0.004, value: 0.0088}
+  - {high: 0.01, low: 0.004, value: 0.0088}
+  - {high: 0.01, low: 0.004, value: 0.0088}
+  - {high: 0.01, low: 0.004, value: 0.0088}
+  - {high: 0.01, low: 0.004, value: 0.0088}
+  - {high: 0.01, low: 0.004, value: 0.009}
+  - {high: 0.01, low: 0.004, value: 0.0093}
+  - {high: 0.01, low: 0.004, value: 0.0095}
+  - {high: 0.01, low: 0.004, value: 0.0098}
+  - {high: 0.01, low: 0.004, value: 0.0074}
+  - {high: 0.01, low: 0.004, value: 0.0074}
+  - {high: 0.01, low: 0.004, value: 0.0074}
+  - {high: 0.01, low: 0.004, value: 0.0076}
+  - {high: 0.01, low: 0.004, value: 0.0079}
+  - {high: 0.02, low: 0.01, value: 0.0184}
+  - {high: 0.02, low: 0.01, value: 0.0188}
+  - {high: 0.02, low: 0.01, value: 0.0188}
+  - {high: 0.02, low: 0.01, value: 0.0188}
+  - {high: 0.02, low: 0.01, value: 0.0188}
+  - {high: 0.02, low: 0.01, value: 0.0188}
+  - {high: 0.02, low: 0.01, value: 0.0188}
+  - {high: 0.02, low: 0.01, value: 0.0188}
+  - {high: 0.02, low: 0.01, value: 0.0154}
+  - {high: 0.02, low: 0.01, value: 0.016}
+  - {high: 0.02, low: 0.01, value: 0.0162}
+  - {high: 0.02, low: 0.01, value: 0.0162}
+  - {high: 0.02, low: 0.01, value: 0.0162}
+  - {high: 0.02, low: 0.01, value: 0.0162}
+  - {high: 0.02, low: 0.01, value: 0.0162}
+  - {high: 0.02, low: 0.01, value: 0.0162}
+  - {high: 0.02, low: 0.01, value: 0.0162}
+  - {high: 0.02, low: 0.01, value: 0.0163}
+  - {high: 0.02, low: 0.01, value: 0.0139}
+  - {high: 0.02, low: 0.01, value: 0.014}
+  - {high: 0.02, low: 0.01, value: 0.014}
+  - {high: 0.02, low: 0.01, value: 0.014}
+  - {high: 0.02, low: 0.01, value: 0.014}
+  - {high: 0.02, low: 0.01, value: 0.014}
+  - {high: 0.02, low: 0.01, value: 0.014}
+  - {high: 0.02, low: 0.01, value: 0.0141}
+  - {high: 0.02, low: 0.01, value: 0.0141}
+  - {high: 0.02, low: 0.01, value: 0.0142}
+  - {high: 0.02, low: 0.01, value: 0.0144}
+  - {high: 0.02, low: 0.01, value: 0.0151}
+  - {high: 0.02, low: 0.01, value: 0.0139}
+  - {high: 0.02, low: 0.01, value: 0.0139}
+  - {high: 0.02, low: 0.01, value: 0.0139}
+  - {high: 0.02, low: 0.01, value: 0.0139}
+  - {high: 0.02, low: 0.01, value: 0.0139}
+  - {high: 0.03, low: 0.02, value: 0.0263}
+  - {high: 0.03, low: 0.02, value: 0.0268}
+  - {high: 0.03, low: 0.02, value: 0.0271}
+  - {high: 0.03, low: 0.02, value: 0.0271}
+  - {high: 0.03, low: 0.02, value: 0.0271}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0246}
+  - {high: 0.03, low: 0.02, value: 0.0246}
+  - {high: 0.03, low: 0.02, value: 0.0246}
+  - {high: 0.03, low: 0.02, value: 0.0246}
+  - {high: 0.03, low: 0.02, value: 0.0246}
+  - {high: 0.03, low: 0.02, value: 0.0246}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.03, low: 0.02, value: 0.0244}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0346}
+  - {high: 0.04, low: 0.03, value: 0.0347}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.04, low: 0.03, value: 0.0345}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0486}
+  - {high: 0.06, low: 0.04, value: 0.0486}
+  - {high: 0.06, low: 0.04, value: 0.0486}
+  - {high: 0.06, low: 0.04, value: 0.0486}
+  - {high: 0.06, low: 0.04, value: 0.0486}
+  - {high: 0.06, low: 0.04, value: 0.0486}
+  - {high: 0.06, low: 0.04, value: 0.0486}
+  - {high: 0.06, low: 0.04, value: 0.0486}
+  - {high: 0.06, low: 0.04, value: 0.0486}
+  - {high: 0.06, low: 0.04, value: 0.0486}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0487}
+  - {high: 0.06, low: 0.04, value: 0.0486}
+  - {high: 0.06, low: 0.04, value: 0.0486}
+  - {high: 0.06, low: 0.04, value: 0.0486}
+  - {high: 0.06, low: 0.04, value: 0.0486}
+  - {high: 0.06, low: 0.04, value: 0.0486}
+  - {high: 0.1, low: 0.06, value: 0.0766}
+  - {high: 0.1, low: 0.06, value: 0.0766}
+  - {high: 0.1, low: 0.06, value: 0.0766}
+  - {high: 0.1, low: 0.06, value: 0.0766}
+  - {high: 0.1, low: 0.06, value: 0.0766}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0764}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0764}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.1, low: 0.06, value: 0.0765}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1175}
+  - {high: 0.14, low: 0.1, value: 0.1175}
+  - {high: 0.14, low: 0.1, value: 0.1175}
+  - {high: 0.14, low: 0.1, value: 0.1175}
+  - {high: 0.14, low: 0.1, value: 0.1175}
+  - {high: 0.14, low: 0.1, value: 0.1175}
+  - {high: 0.14, low: 0.1, value: 0.1175}
+  - {high: 0.14, low: 0.1, value: 0.1175}
+  - {high: 0.14, low: 0.1, value: 0.1175}
+  - {high: 0.14, low: 0.1, value: 0.1175}
+  - {high: 0.14, low: 0.1, value: 0.1175}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1176}
+  - {high: 0.14, low: 0.1, value: 0.1175}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.18, low: 0.14, value: 0.1581}
+  - {high: 0.4, low: 0.18, value: 0.2505}
+  - {high: 0.4, low: 0.18, value: 0.2505}
+  - {high: 0.4, low: 0.18, value: 0.2504}
+  - {high: 0.4, low: 0.18, value: 0.2504}
+  - {high: 0.4, low: 0.18, value: 0.2504}
+  - {high: 0.4, low: 0.18, value: 0.2504}
+  - {high: 0.4, low: 0.18, value: 0.2504}
+  - {high: 0.4, low: 0.18, value: 0.2504}
+  - {high: 0.4, low: 0.18, value: 0.2501}
+  - {high: 0.4, low: 0.18, value: 0.2502}
+  - {high: 0.4, low: 0.18, value: 0.2503}
+  - {high: 0.4, low: 0.18, value: 0.2503}
+  - {high: 0.4, low: 0.18, value: 0.2503}
+  - {high: 0.4, low: 0.18, value: 0.2503}
+  - {high: 0.4, low: 0.18, value: 0.2503}
+  - {high: 0.4, low: 0.18, value: 0.2503}
+  - {high: 0.4, low: 0.18, value: 0.2503}
+  - {high: 0.4, low: 0.18, value: 0.2503}
+  - {high: 0.4, low: 0.18, value: 0.2497}
+  - {high: 0.4, low: 0.18, value: 0.25}
+  - {high: 0.4, low: 0.18, value: 0.25}
+  - {high: 0.4, low: 0.18, value: 0.25}
+  - {high: 0.4, low: 0.18, value: 0.25}
+  - {high: 0.4, low: 0.18, value: 0.25}
+  - {high: 0.4, low: 0.18, value: 0.25}
+  - {high: 0.4, low: 0.18, value: 0.2501}
+  - {high: 0.4, low: 0.18, value: 0.2501}
+  - {high: 0.4, low: 0.18, value: 0.2502}
+- header: {name: $y$}
+  values:
+  - {high: 0.5, low: 0.3, value: 0.44}
+  - {high: 0.5, low: 0.3, value: 0.44}
+  - {high: 0.5, low: 0.3, value: 0.44}
+  - {high: 0.5, low: 0.3, value: 0.44}
+  - {high: 0.5, low: 0.3, value: 0.44}
+  - {high: 0.5, low: 0.3, value: 0.43}
+  - {high: 0.5, low: 0.3, value: 0.41}
+  - {high: 0.5, low: 0.3, value: 0.39}
+  - {high: 0.5, low: 0.3, value: 0.37}
+  - {high: 0.5, low: 0.3, value: 0.35}
+  - {high: 0.7, low: 0.5, value: 0.6}
+  - {high: 0.7, low: 0.5, value: 0.6}
+  - {high: 0.7, low: 0.5, value: 0.6}
+  - {high: 0.7, low: 0.5, value: 0.57}
+  - {high: 0.7, low: 0.5, value: 0.53}
+  - {high: 0.2, low: 0.15, value: 0.19}
+  - {high: 0.2, low: 0.15, value: 0.19}
+  - {high: 0.2, low: 0.15, value: 0.19}
+  - {high: 0.2, low: 0.15, value: 0.19}
+  - {high: 0.2, low: 0.15, value: 0.19}
+  - {high: 0.2, low: 0.15, value: 0.19}
+  - {high: 0.2, low: 0.15, value: 0.19}
+  - {high: 0.2, low: 0.15, value: 0.19}
+  - {high: 0.3, low: 0.2, value: 0.28}
+  - {high: 0.3, low: 0.2, value: 0.26}
+  - {high: 0.3, low: 0.2, value: 0.25}
+  - {high: 0.3, low: 0.2, value: 0.25}
+  - {high: 0.3, low: 0.2, value: 0.25}
+  - {high: 0.3, low: 0.2, value: 0.25}
+  - {high: 0.3, low: 0.2, value: 0.25}
+  - {high: 0.3, low: 0.2, value: 0.25}
+  - {high: 0.3, low: 0.2, value: 0.25}
+  - {high: 0.3, low: 0.2, value: 0.25}
+  - {high: 0.5, low: 0.3, value: 0.43}
+  - {high: 0.5, low: 0.3, value: 0.39}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.37}
+  - {high: 0.5, low: 0.3, value: 0.35}
+  - {high: 0.5, low: 0.3, value: 0.34}
+  - {high: 0.5, low: 0.3, value: 0.33}
+  - {high: 0.5, low: 0.3, value: 0.32}
+  - {high: 0.5, low: 0.3, value: 0.31}
+  - {high: 0.7, low: 0.5, value: 0.59}
+  - {high: 0.7, low: 0.5, value: 0.59}
+  - {high: 0.7, low: 0.5, value: 0.58}
+  - {high: 0.7, low: 0.5, value: 0.56}
+  - {high: 0.7, low: 0.5, value: 0.53}
+  - {high: 0.15, low: 0.1, value: 0.14}
+  - {high: 0.15, low: 0.1, value: 0.14}
+  - {high: 0.15, low: 0.1, value: 0.14}
+  - {high: 0.15, low: 0.1, value: 0.14}
+  - {high: 0.15, low: 0.1, value: 0.14}
+  - {high: 0.2, low: 0.15, value: 0.19}
+  - {high: 0.2, low: 0.15, value: 0.18}
+  - {high: 0.2, low: 0.15, value: 0.18}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.3, low: 0.2, value: 0.27}
+  - {high: 0.3, low: 0.2, value: 0.25}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.5, low: 0.3, value: 0.43}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.37}
+  - {high: 0.5, low: 0.3, value: 0.35}
+  - {high: 0.5, low: 0.3, value: 0.34}
+  - {high: 0.5, low: 0.3, value: 0.33}
+  - {high: 0.5, low: 0.3, value: 0.32}
+  - {high: 0.5, low: 0.3, value: 0.31}
+  - {high: 0.7, low: 0.5, value: 0.59}
+  - {high: 0.7, low: 0.5, value: 0.59}
+  - {high: 0.7, low: 0.5, value: 0.58}
+  - {high: 0.7, low: 0.5, value: 0.56}
+  - {high: 0.7, low: 0.5, value: 0.53}
+  - {high: 0.15, low: 0.1, value: 0.14}
+  - {high: 0.15, low: 0.1, value: 0.14}
+  - {high: 0.15, low: 0.1, value: 0.13}
+  - {high: 0.15, low: 0.1, value: 0.13}
+  - {high: 0.15, low: 0.1, value: 0.12}
+  - {high: 0.2, low: 0.15, value: 0.19}
+  - {high: 0.2, low: 0.15, value: 0.18}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.3, low: 0.2, value: 0.27}
+  - {high: 0.3, low: 0.2, value: 0.25}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.5, low: 0.3, value: 0.43}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.37}
+  - {high: 0.5, low: 0.3, value: 0.35}
+  - {high: 0.5, low: 0.3, value: 0.34}
+  - {high: 0.5, low: 0.3, value: 0.33}
+  - {high: 0.5, low: 0.3, value: 0.32}
+  - {high: 0.5, low: 0.3, value: 0.31}
+  - {high: 0.7, low: 0.5, value: 0.59}
+  - {high: 0.7, low: 0.5, value: 0.59}
+  - {high: 0.7, low: 0.5, value: 0.59}
+  - {high: 0.7, low: 0.5, value: 0.56}
+  - {high: 0.7, low: 0.5, value: 0.53}
+  - {high: 0.15, low: 0.1, value: 0.14}
+  - {high: 0.15, low: 0.1, value: 0.14}
+  - {high: 0.15, low: 0.1, value: 0.13}
+  - {high: 0.15, low: 0.1, value: 0.13}
+  - {high: 0.15, low: 0.1, value: 0.12}
+  - {high: 0.2, low: 0.15, value: 0.19}
+  - {high: 0.2, low: 0.15, value: 0.18}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.3, low: 0.2, value: 0.27}
+  - {high: 0.3, low: 0.2, value: 0.25}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.5, low: 0.3, value: 0.43}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.37}
+  - {high: 0.5, low: 0.3, value: 0.35}
+  - {high: 0.5, low: 0.3, value: 0.34}
+  - {high: 0.5, low: 0.3, value: 0.33}
+  - {high: 0.5, low: 0.3, value: 0.32}
+  - {high: 0.5, low: 0.3, value: 0.31}
+  - {high: 0.7, low: 0.5, value: 0.59}
+  - {high: 0.7, low: 0.5, value: 0.59}
+  - {high: 0.7, low: 0.5, value: 0.59}
+  - {high: 0.7, low: 0.5, value: 0.56}
+  - {high: 0.7, low: 0.5, value: 0.53}
+  - {high: 0.15, low: 0.1, value: 0.14}
+  - {high: 0.15, low: 0.1, value: 0.14}
+  - {high: 0.15, low: 0.1, value: 0.13}
+  - {high: 0.15, low: 0.1, value: 0.13}
+  - {high: 0.15, low: 0.1, value: 0.12}
+  - {high: 0.2, low: 0.15, value: 0.19}
+  - {high: 0.2, low: 0.15, value: 0.18}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.3, low: 0.2, value: 0.27}
+  - {high: 0.3, low: 0.2, value: 0.25}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.5, low: 0.3, value: 0.43}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.37}
+  - {high: 0.5, low: 0.3, value: 0.35}
+  - {high: 0.5, low: 0.3, value: 0.34}
+  - {high: 0.5, low: 0.3, value: 0.33}
+  - {high: 0.5, low: 0.3, value: 0.32}
+  - {high: 0.5, low: 0.3, value: 0.31}
+  - {high: 0.7, low: 0.5, value: 0.59}
+  - {high: 0.7, low: 0.5, value: 0.59}
+  - {high: 0.7, low: 0.5, value: 0.59}
+  - {high: 0.7, low: 0.5, value: 0.56}
+  - {high: 0.7, low: 0.5, value: 0.53}
+  - {high: 0.15, low: 0.1, value: 0.14}
+  - {high: 0.15, low: 0.1, value: 0.14}
+  - {high: 0.15, low: 0.1, value: 0.13}
+  - {high: 0.15, low: 0.1, value: 0.13}
+  - {high: 0.15, low: 0.1, value: 0.12}
+  - {high: 0.2, low: 0.15, value: 0.19}
+  - {high: 0.2, low: 0.15, value: 0.18}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.3, low: 0.2, value: 0.27}
+  - {high: 0.3, low: 0.2, value: 0.25}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.5, low: 0.3, value: 0.43}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.37}
+  - {high: 0.5, low: 0.3, value: 0.35}
+  - {high: 0.5, low: 0.3, value: 0.34}
+  - {high: 0.5, low: 0.3, value: 0.33}
+  - {high: 0.5, low: 0.3, value: 0.32}
+  - {high: 0.7, low: 0.5, value: 0.59}
+  - {high: 0.7, low: 0.5, value: 0.59}
+  - {high: 0.7, low: 0.5, value: 0.59}
+  - {high: 0.7, low: 0.5, value: 0.56}
+  - {high: 0.7, low: 0.5, value: 0.53}
+  - {high: 0.15, low: 0.1, value: 0.14}
+  - {high: 0.15, low: 0.1, value: 0.14}
+  - {high: 0.15, low: 0.1, value: 0.13}
+  - {high: 0.15, low: 0.1, value: 0.13}
+  - {high: 0.15, low: 0.1, value: 0.12}
+  - {high: 0.2, low: 0.15, value: 0.19}
+  - {high: 0.2, low: 0.15, value: 0.18}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.3, low: 0.2, value: 0.27}
+  - {high: 0.3, low: 0.2, value: 0.25}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.5, low: 0.3, value: 0.43}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.37}
+  - {high: 0.5, low: 0.3, value: 0.35}
+  - {high: 0.5, low: 0.3, value: 0.34}
+  - {high: 0.5, low: 0.3, value: 0.33}
+  - {high: 0.5, low: 0.3, value: 0.32}
+  - {high: 0.2, low: 0.15, value: 0.19}
+  - {high: 0.2, low: 0.15, value: 0.18}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.2, low: 0.15, value: 0.17}
+  - {high: 0.3, low: 0.2, value: 0.27}
+  - {high: 0.3, low: 0.2, value: 0.25}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.3, low: 0.2, value: 0.24}
+  - {high: 0.5, low: 0.3, value: 0.43}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.38}
+  - {high: 0.5, low: 0.3, value: 0.37}
+  - {high: 0.5, low: 0.3, value: 0.35}
+  - {high: 0.5, low: 0.3, value: 0.34}
+  - {high: 0.5, low: 0.3, value: 0.33}
+- header: {name: $<Q^2> (GeV/c)^2$}
+  values:
+  - {value: 1.149}
+  - {value: 1.138}
+  - {value: 1.138}
+  - {value: 1.138}
+  - {value: 1.138}
+  - {value: 1.132}
+  - {value: 1.105}
+  - {value: 1.075}
+  - {value: 1.048}
+  - {value: 1.023}
+  - {value: 1.318}
+  - {value: 1.318}
+  - {value: 1.316}
+  - {value: 1.282}
+  - {value: 1.244}
+  - {value: 1.084}
+  - {value: 1.065}
+  - {value: 1.065}
+  - {value: 1.065}
+  - {value: 1.065}
+  - {value: 1.065}
+  - {value: 1.065}
+  - {value: 1.065}
+  - {value: 1.275}
+  - {value: 1.237}
+  - {value: 1.222}
+  - {value: 1.222}
+  - {value: 1.222}
+  - {value: 1.222}
+  - {value: 1.222}
+  - {value: 1.222}
+  - {value: 1.222}
+  - {value: 1.213}
+  - {value: 1.797}
+  - {value: 1.612}
+  - {value: 1.6}
+  - {value: 1.6}
+  - {value: 1.6}
+  - {value: 1.59}
+  - {value: 1.538}
+  - {value: 1.481}
+  - {value: 1.431}
+  - {value: 1.387}
+  - {value: 1.353}
+  - {value: 1.301}
+  - {value: 2.432}
+  - {value: 2.432}
+  - {value: 2.426}
+  - {value: 2.311}
+  - {value: 2.179}
+  - {value: 1.138}
+  - {value: 1.117}
+  - {value: 1.106}
+  - {value: 1.104}
+  - {value: 1.104}
+  - {value: 1.427}
+  - {value: 1.334}
+  - {value: 1.285}
+  - {value: 1.278}
+  - {value: 1.278}
+  - {value: 1.278}
+  - {value: 1.278}
+  - {value: 1.278}
+  - {value: 2.0}
+  - {value: 1.841}
+  - {value: 1.765}
+  - {value: 1.763}
+  - {value: 1.763}
+  - {value: 1.763}
+  - {value: 1.763}
+  - {value: 1.763}
+  - {value: 1.763}
+  - {value: 1.743}
+  - {value: 3.146}
+  - {value: 2.797}
+  - {value: 2.764}
+  - {value: 2.764}
+  - {value: 2.764}
+  - {value: 2.748}
+  - {value: 2.655}
+  - {value: 2.552}
+  - {value: 2.458}
+  - {value: 2.37}
+  - {value: 2.287}
+  - {value: 2.102}
+  - {value: 4.255}
+  - {value: 4.255}
+  - {value: 4.243}
+  - {value: 4.043}
+  - {value: 3.812}
+  - {value: 1.49}
+  - {value: 1.42}
+  - {value: 1.361}
+  - {value: 1.312}
+  - {value: 1.286}
+  - {value: 2.023}
+  - {value: 1.892}
+  - {value: 1.799}
+  - {value: 1.777}
+  - {value: 1.777}
+  - {value: 1.777}
+  - {value: 1.777}
+  - {value: 1.777}
+  - {value: 2.836}
+  - {value: 2.611}
+  - {value: 2.503}
+  - {value: 2.5}
+  - {value: 2.5}
+  - {value: 2.5}
+  - {value: 2.5}
+  - {value: 2.5}
+  - {value: 2.5}
+  - {value: 2.471}
+  - {value: 4.46}
+  - {value: 3.966}
+  - {value: 3.918}
+  - {value: 3.918}
+  - {value: 3.918}
+  - {value: 3.896}
+  - {value: 3.764}
+  - {value: 3.619}
+  - {value: 3.485}
+  - {value: 3.361}
+  - {value: 3.244}
+  - {value: 2.981}
+  - {value: 6.033}
+  - {value: 6.033}
+  - {value: 6.015}
+  - {value: 5.731}
+  - {value: 5.402}
+  - {value: 2.099}
+  - {value: 1.999}
+  - {value: 1.916}
+  - {value: 1.843}
+  - {value: 1.788}
+  - {value: 2.852}
+  - {value: 2.666}
+  - {value: 2.535}
+  - {value: 2.505}
+  - {value: 2.504}
+  - {value: 2.504}
+  - {value: 2.504}
+  - {value: 2.504}
+  - {value: 3.996}
+  - {value: 3.678}
+  - {value: 3.525}
+  - {value: 3.522}
+  - {value: 3.522}
+  - {value: 3.522}
+  - {value: 3.522}
+  - {value: 3.522}
+  - {value: 3.522}
+  - {value: 3.481}
+  - {value: 6.281}
+  - {value: 5.585}
+  - {value: 5.517}
+  - {value: 5.517}
+  - {value: 5.517}
+  - {value: 5.485}
+  - {value: 5.301}
+  - {value: 5.097}
+  - {value: 4.908}
+  - {value: 4.734}
+  - {value: 4.569}
+  - {value: 4.202}
+  - {value: 8.496}
+  - {value: 8.496}
+  - {value: 8.471}
+  - {value: 8.072}
+  - {value: 7.608}
+  - {value: 3.301}
+  - {value: 3.146}
+  - {value: 3.015}
+  - {value: 2.901}
+  - {value: 2.813}
+  - {value: 4.482}
+  - {value: 4.19}
+  - {value: 3.984}
+  - {value: 3.936}
+  - {value: 3.935}
+  - {value: 3.935}
+  - {value: 3.935}
+  - {value: 3.935}
+  - {value: 6.282}
+  - {value: 5.78}
+  - {value: 5.539}
+  - {value: 5.533}
+  - {value: 5.533}
+  - {value: 5.533}
+  - {value: 5.533}
+  - {value: 5.533}
+  - {value: 5.533}
+  - {value: 5.47}
+  - {value: 9.871}
+  - {value: 8.772}
+  - {value: 8.666}
+  - {value: 8.666}
+  - {value: 8.666}
+  - {value: 8.617}
+  - {value: 8.328}
+  - {value: 8.008}
+  - {value: 7.714}
+  - {value: 7.441}
+  - {value: 7.18}
+  - {value: 6.597}
+  - {value: 13.359}
+  - {value: 13.359}
+  - {value: 13.322}
+  - {value: 12.69}
+  - {value: 11.965}
+  - {value: 5.071}
+  - {value: 4.832}
+  - {value: 4.631}
+  - {value: 4.454}
+  - {value: 4.32}
+  - {value: 6.89}
+  - {value: 6.44}
+  - {value: 6.122}
+  - {value: 6.048}
+  - {value: 6.047}
+  - {value: 6.047}
+  - {value: 6.047}
+  - {value: 6.047}
+  - {value: 9.652}
+  - {value: 8.881}
+  - {value: 8.509}
+  - {value: 8.501}
+  - {value: 8.501}
+  - {value: 8.501}
+  - {value: 8.501}
+  - {value: 8.501}
+  - {value: 8.501}
+  - {value: 8.404}
+  - {value: 15.177}
+  - {value: 13.486}
+  - {value: 13.321}
+  - {value: 13.321}
+  - {value: 13.321}
+  - {value: 13.245}
+  - {value: 12.798}
+  - {value: 12.305}
+  - {value: 11.855}
+  - {value: 11.435}
+  - {value: 11.035}
+  - {value: 20.541}
+  - {value: 20.541}
+  - {value: 20.483}
+  - {value: 19.513}
+  - {value: 18.389}
+  - {value: 6.819}
+  - {value: 6.496}
+  - {value: 6.224}
+  - {value: 5.987}
+  - {value: 5.81}
+  - {value: 9.262}
+  - {value: 8.658}
+  - {value: 8.229}
+  - {value: 8.13}
+  - {value: 8.129}
+  - {value: 8.129}
+  - {value: 8.129}
+  - {value: 8.129}
+  - {value: 12.978}
+  - {value: 11.938}
+  - {value: 11.437}
+  - {value: 11.426}
+  - {value: 11.426}
+  - {value: 11.426}
+  - {value: 11.426}
+  - {value: 11.426}
+  - {value: 11.426}
+  - {value: 11.296}
+  - {value: 20.404}
+  - {value: 18.128}
+  - {value: 17.908}
+  - {value: 17.908}
+  - {value: 17.908}
+  - {value: 17.806}
+  - {value: 17.214}
+  - {value: 16.552}
+  - {value: 15.948}
+  - {value: 15.382}
+  - {value: 14.845}
+  - {value: 14.675}
+  - {value: 13.715}
+  - {value: 13.031}
+  - {value: 12.873}
+  - {value: 12.87}
+  - {value: 12.87}
+  - {value: 12.87}
+  - {value: 12.87}
+  - {value: 20.535}
+  - {value: 18.893}
+  - {value: 18.105}
+  - {value: 18.086}
+  - {value: 18.086}
+  - {value: 18.086}
+  - {value: 18.086}
+  - {value: 18.086}
+  - {value: 18.086}
+  - {value: 17.882}
+  - {value: 32.238}
+  - {value: 28.65}
+  - {value: 28.303}
+  - {value: 28.303}
+  - {value: 28.303}
+  - {value: 28.146}
+  - {value: 27.209}
+  - {value: 26.174}
+  - {value: 25.228}
+  - {value: 24.339}
+- header: {name: '$z^{h^{-}}$'}
+  values:
+  - {high: 0.25, low: 0.2, value: 0.223}
+  - {high: 0.3, low: 0.25, value: 0.274}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.25, low: 0.2, value: 0.223}
+  - {high: 0.3, low: 0.25, value: 0.274}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.795}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.794}
+  - {high: 0.25, low: 0.2, value: 0.223}
+  - {high: 0.3, low: 0.25, value: 0.274}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.795}
+  - {high: 0.25, low: 0.2, value: 0.223}
+  - {high: 0.3, low: 0.25, value: 0.274}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.795}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.795}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.794}
+  - {high: 0.25, low: 0.2, value: 0.223}
+  - {high: 0.3, low: 0.25, value: 0.274}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.794}
+  - {high: 0.25, low: 0.2, value: 0.223}
+  - {high: 0.3, low: 0.25, value: 0.274}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.795}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.794}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.794}
+  - {high: 0.25, low: 0.2, value: 0.223}
+  - {high: 0.3, low: 0.25, value: 0.274}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.723}
+  - {high: 0.85, low: 0.75, value: 0.794}
+  - {high: 0.25, low: 0.2, value: 0.223}
+  - {high: 0.3, low: 0.25, value: 0.274}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.795}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.795}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.794}
+  - {high: 0.25, low: 0.2, value: 0.223}
+  - {high: 0.3, low: 0.25, value: 0.274}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.673}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.793}
+  - {high: 0.25, low: 0.2, value: 0.223}
+  - {high: 0.3, low: 0.25, value: 0.274}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.795}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.795}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.794}
+  - {high: 0.25, low: 0.2, value: 0.223}
+  - {high: 0.3, low: 0.25, value: 0.274}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.793}
+  - {high: 0.25, low: 0.2, value: 0.223}
+  - {high: 0.3, low: 0.25, value: 0.273}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.795}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.794}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.794}
+  - {high: 0.25, low: 0.2, value: 0.223}
+  - {high: 0.3, low: 0.25, value: 0.274}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.25, low: 0.2, value: 0.223}
+  - {high: 0.3, low: 0.25, value: 0.274}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.795}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.794}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.794}
+  - {high: 0.25, low: 0.2, value: 0.223}
+  - {high: 0.3, low: 0.25, value: 0.274}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.673}
+  - {high: 0.75, low: 0.7, value: 0.723}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.794}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}
+  - {high: 0.75, low: 0.7, value: 0.724}
+  - {high: 0.85, low: 0.75, value: 0.794}
+  - {high: 0.25, low: 0.2, value: 0.223}
+  - {high: 0.3, low: 0.25, value: 0.274}
+  - {high: 0.35, low: 0.3, value: 0.324}
+  - {high: 0.4, low: 0.35, value: 0.374}
+  - {high: 0.45, low: 0.4, value: 0.424}
+  - {high: 0.5, low: 0.45, value: 0.474}
+  - {high: 0.55, low: 0.5, value: 0.524}
+  - {high: 0.6, low: 0.55, value: 0.574}
+  - {high: 0.65, low: 0.6, value: 0.624}
+  - {high: 0.7, low: 0.65, value: 0.674}

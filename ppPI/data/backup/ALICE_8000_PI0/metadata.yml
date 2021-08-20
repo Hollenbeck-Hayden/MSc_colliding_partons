@@ -1,0 +1,20 @@
+metadata:
+  - arxiv: 1708.08745
+  - paper: Eur.Phys.J.C 78 (2018) 263, 2018
+  - DOI: https://doi.org/10.17182/hepdata.79044.v2
+  - hepdata: https://www.hepdata.net/record/79044 
+  - nameexp: ALICE_8000_PI0
+  - ndata: 44
+  - nsys: 2
+  - systype:
+      - {label: UNCORR}
+      - {label: CORR}
+  - namesys:
+      - {label: ADD}
+      - {label: MULT}
+  - obs: E d3sigma/dp3
+  - unit: pb/GeV2
+  - cme: 8000 GeV
+  - rap: [-0.8,0.8]
+  - info: None
+  

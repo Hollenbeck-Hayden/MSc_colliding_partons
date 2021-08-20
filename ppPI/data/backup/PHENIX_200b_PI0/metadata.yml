@@ -1,0 +1,18 @@
+metadata:
+  - arxiv: 0704.3599
+  - paper: Phys.Rev.D 76 (2007) 051106
+  - DOI: https://doi.org/10.1103/PhysRevD.76.051106
+  - hepdata: n/a
+  - nameexp: PHENIX_200b_PI0
+  - ndata: 25
+  - nsys: 1
+  - systype:
+      - {label: CORR}
+  - namesys:
+      - {label: MULT}
+  - obs: E d3sigma/dp3
+  - unit: mb/GeV-2
+  - cme: 200 GeV
+  - rap: [-0.35,0.35]
+  - info: None
+  

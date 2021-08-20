@@ -1,0 +1,4 @@
+obs: \frac{d^2 \sigma}{dy \, dp_T} \quad [mb/Gev^2]
+conv: 1.000000
+exp: ALICE
+name: $\pi^+ + \pi^-$ 5020 GeV

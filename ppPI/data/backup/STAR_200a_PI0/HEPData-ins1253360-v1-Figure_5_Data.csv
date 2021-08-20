@@ -1,0 +1,27 @@
+#: table_doi: 10.17182/hepdata.103061.v1/t8
+#: name: Figure 5 Data
+#: description: Upper panel, the $\pi^{0}$ cross section (blue markers) is shown compared with an NLO pQCD cal- culation with three options for the scale parameter. The lower panel presents the ratio of the data to the pT-scale theory curve, as well as the ratio of the 2pT-scale and pT/2-scale theory curves to the pT-scale curve.
+#: data_file: fig5_EEMC.yaml
+#: keyword reactions: pp
+#: keyword cmenergies: 200.0
+#: keyword observables: neutral pion
+#: -,Data
+$p_{T} [GeV/c]$,$E d^{3}\sigma/dp^{3} [mb GeV^{-2}c^{3}]$,stat error +,stat error -,sys error +,sys error -
+5.456,8.332e-06,3.688e-08,-3.688e-08,3.671e-06,-3.671e-06
+6.456,1.692e-06,1.236e-08,-1.236e-08,7.042e-07,-7.042e-07
+7.456,5.947e-07,5.456e-09,-5.456e-09,2.211e-07,-2.211e-07
+8.456,1.742e-07,2.741e-09,-2.741e-09,8.201e-08,-8.201e-08
+9.456,8.338e-08,1.83e-09,-1.83e-09,3.623e-08,-3.623e-08
+10.83,2.949e-08,6.417e-10,-6.417e-10,1.859e-08,-1.859e-08
+13.38,3.813e-09,1.369e-10,-1.369e-10,5.539e-09,-5.539e-09
+
+#: -,Data/pQCD
+$p_{T} [GeV/c]$,$E d^{3}\sigma/dp^{3} [mb GeV^{-2}c^{3}]$,stat error +,stat error -,sys error +,sys error -
+5.456,0.7904,0.003498,-0.003498,0.3482,-0.3482
+6.456,0.6237,0.004557,-0.004557,0.2595,-0.2595
+7.456,0.7216,0.006621,-0.006621,0.2683,-0.2683
+8.456,0.6143,0.009666,-0.009666,0.2892,-0.2892
+9.456,0.7777,0.01707,-0.01707,0.3379,-0.3379
+10.83,0.9289,0.02021,-0.02021,0.5856,-0.5856
+13.38,0.8835,0.03172,-0.03172,1.283,-1.283
+

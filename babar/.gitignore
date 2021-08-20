@@ -1,0 +1,3 @@
+#Here one should list the files that are ignored by git
+test
+benchmark

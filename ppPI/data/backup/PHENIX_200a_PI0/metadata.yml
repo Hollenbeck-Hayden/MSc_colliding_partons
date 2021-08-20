@@ -1,0 +1,20 @@
+metadata:
+  - arxiv: hep-ex/0304038 
+  - paper: Phys.Rev.Lett. 91 (2003) 241803
+  - DOI: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.91.241803
+  - hepdata: https://www.hepdata.net/record/ins617784
+  - nameexp: PHENIX_200a_PI0
+  - ndata: 17
+  - nsys: 2
+  - systype:
+      - {label: UNCORR}
+      - {labele: CORR}
+  - namesys:
+      - {label: ADD}
+      - {label: MULT}
+  - obs: E d3sigma/dp3
+  - unit: mb/GeV-2
+  - cme: 200 GeV
+  - rap: [-0.35,0.35]
+  - info: None
+  

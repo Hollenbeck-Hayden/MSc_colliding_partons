@@ -1,0 +1,55 @@
+\documentclass[12pt]{article}
+\usepackage[a4paper, portrait, margin=0.75in]{geometry}
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx}
+\graphicspath{
+	{../figures}
+}
+\usepackage{wrapfig}
+\usepackage{pgfplots}
+\usepackage{caption}
+\usepackage{subcaption}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{physics}
+\usepackage{slashed}
+\usepackage{hyperref}
+\usepackage{bm}
+
+
+\begin{document}
+\begin{figure}
+	\centering
+	\input{../ALICE_2760a_PI0_plot.pgf}
+	\input{../ALICE_2760b_PI0_plot.pgf}
+	\input{../ALICE_7000_PI0_plot.pgf}
+	\input{../ALICE_8000_PI0_plot.pgf}
+\end{figure}
+\begin{figure}
+	\centering
+	\input{../PHENIX_200b_PIsum_plot.pgf}
+	\input{../PHENIX_200_PI0_plot.pgf}
+	\input{../PHENIX_510_PI0_plot.pgf}
+\end{figure}
+\begin{figure}
+	\centering
+	\input{../STAR_200a_PI0_plot.pgf}
+	\input{../STAR_200b_PI0_plot.pgf}
+\end{figure}
+\begin{figure}
+	\centering
+	\input{../chi2_dist.pgf}
+\end{figure}
+\begin{figure}
+	\centering
+	\input{../../../../plot_ff_comparison/original_5/MAPFF10NLOPIsum_21.pgf}
+	\input{../../../../plot_ff_comparison/original_5/MAPFF10NLOPIsum_1.pgf}
+	%\input{../../../../plot_ff_comparison/original_5/MAPFF10NLOPIsum_2.pgf}
+	%\input{../../../../plot_ff_comparison/original_5/MAPFF10NLOPIsum_3.pgf}
+	%\input{../../../../plot_ff_comparison/original_5/MAPFF10NLOPIsum_4.pgf}
+	%\input{../../../../plot_ff_comparison/original_5/MAPFF10NLOPIsum_5.pgf}
+\end{figure}
+
+\end{document}
