@@ -1,8 +1,0 @@
-0	# pT integration
-1	# y integration
-1	# NLO
-3	# PDF set
-7	# FF set
-0 0	# proton-proton
-2	# E*sigma/d3p
-1.	# Rescaling factor

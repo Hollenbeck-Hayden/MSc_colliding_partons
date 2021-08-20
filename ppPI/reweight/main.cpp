@@ -132,6 +132,8 @@ void reweight_experimental_file(const std::string& path) {
 
 	//saveWeightedSet("MAPFF10NLOPIp", "testff_p", unweights, "./testff_p/");
 	//saveWeightedSet("MAPFF10NLOPIm", "testff_m", unweights, "./testff_m/");
+	
+	saveWeightedSet("MAPFF10NLOPIsum", "unweighted_ff_sum", unweights, "./unweighted_ff_sum/");
 }
 
 int main(int argc, char** argv)

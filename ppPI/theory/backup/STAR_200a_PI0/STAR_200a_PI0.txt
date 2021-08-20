@@ -1,8 +1,0 @@
-0    # pT integration: 0 for NO, 1 for YES
-1    # y  integration: 0 for NO, 1 for YES
-1    # perturbative order: 0 for LO, 1 for NLO
-3    # PDF set: 3 for NNPDF_31_nlo_as_0118
-4    # FF set: 3 for MAPFF1.0
-0  0 # choice for initial hadron: 0 for proton, 1 for antiproton
-2    # choice of cross section: 1 for dsigma/dy/dpt2, 2 for E*dsigma/d3p, 3 for dsigma/dy/dpt, 4 for pT3*dsigma/dy/dpT
-1.   # rescaling factor for factorisation and renormalisation scales

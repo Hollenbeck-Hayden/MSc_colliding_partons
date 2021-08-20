@@ -1,3 +1,8 @@
+/*
+ * Code written by E.R. Nocera
+ */
+
+
 #include "yaml-cpp/yaml.h"
 #include <iomanip>
 #include <string>
